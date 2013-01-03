@@ -1,7 +1,7 @@
 /*
  Localizable.strings
  Pushpin for Pinboard
- 
+
  Originally created by Jérôme Tomasini
  */
 
@@ -52,7 +52,7 @@
 "Untagged" = "Non étiqueté";
 "Bookmarks" = "Signets";
 "Personal" = "Personnel";
-"Community" = "Communité";
+"Community" = "Communauté";
 "Fandom" = "Fans";
 "Popular" = "Populaire";
 "Network" = "Réseau";
@@ -77,7 +77,7 @@
 "Copy Title" = "Copier le titre";
 "Other" = "Autre";
 "Set as private?" = "Mettre en privé ?";
-"Mark as read?" = "Marqué comme lu ?";
+"Mark as read?" = "Marquer comme lu ?";
 "Copy to mine" = "Copier vers mon compte";
 "Send to Instapaper" = "Envoyer vers Instapaper";
 "Send to Readability" = "Envoyer vers Readability";
@@ -118,7 +118,7 @@
 "Contact Support" = "Contacter le support technique";
 "Request a feature" = "Demander une fonctionnalité";
 "Report a bug" = "Signaler un problème technique";
-"Email us" = "Envoyer nous un email";
+"Email us" = "Nous adresser un email";
 "Support Email Subject" = "Aidez-moi!";
 "Give Feedback" = "Feedback";
 
