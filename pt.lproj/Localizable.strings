@@ -107,7 +107,7 @@
 "Open links with:" = "Abrir links com";
 
 "Install Chrome Title" = "Instalar Chrome?";
-"Install Chrome Description" = "Para abrir links com o Google Chrome, primeiro tem de o instalar. Pressione OK para continuar";
+"Install Chrome Description" = "Para abrir links com o Google Chrome, primeiro tem de o instalar.";
 
 "Log out warning title" = "De certeza";
 "Log out warning double check" = "Isto irá sair e apagar a base de dados local do dispositivo.";

@@ -108,7 +108,7 @@
 "Open links with:" = "Links öffnen mit";
 
 "Install Chrome Title" = "Chrome installieren?";
-"Install Chrome Description" = "Wenn du Links mit Google Chrome öffnen willst, muss dieser zuerst installiert werden. Zum Fortfahren OK drücken";
+"Install Chrome Description" = "Wenn du Links mit Google Chrome öffnen willst, muss dieser zuerst installiert werden.";
 
 "Log out warning title" = "Bist du sicher?";
 "Log out warning double check" = "Du wirst nun abgemeldet und die lokale Lesezeichen Datenbank wird von deinem Gerät entfernt.";

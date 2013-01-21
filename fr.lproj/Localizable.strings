@@ -108,7 +108,7 @@
 "Open links with:" = "Ouvrir les liens avec";
 
 "Install Chrome Title" = "Installez Chrome ?";
-"Install Chrome Description" = "Pour ouvrir des liens dans Google Chrome, vous devez d’abord l’installer. Cliquez sur OK pour continuer.";
+"Install Chrome Description" = "Pour ouvrir des liens dans Google Chrome, vous devez d’abord l’installer.";
 
 "Log out warning title" = "Êtes-vous sûr ?";
 "Log out warning double check" = "Ceci vous déconnectera et effacera les signets enregistrés sur votre appareil.";
