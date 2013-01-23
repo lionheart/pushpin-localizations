@@ -113,7 +113,7 @@
 
 "Log out warning title" = "Are you sure?";
 "Log out warning double check" = "This will log you out and delete the local bookmark database from your device.";
-"Log out warning footer" = "This will log you out of the application and will reset the application's bookmark database.";
+"Log out warning footer" = "Logging out of the application will reset the bookmark database on this device.";
 
 "Log Out" = "Log Out";
 "Contact Support" = "Contact Support";
