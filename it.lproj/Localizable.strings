@@ -56,6 +56,7 @@
 "Fandom" = "Fandom";
 "Popular" = "I più diffusi";
 "Network" = "Network";
+"Starred" = "Favoriti";
 
 // Bookmark Page
 
@@ -104,11 +105,14 @@
 // Settings Page
 
 "Private by default?" = "Privati per default?";
+"Read by default?" = "Letti per default?";
 
 "Open links with:" = "Apri link con";
 
 "Install Chrome Title" = "Installare Chrome?";
 "Install Chrome Description" = "Per poter aprire i link con Google Chrome, devi prima installarlo.";
+
+"Rate us in the App Store" = "Valutaci sull'App Store";
 
 "Log out warning title" = "Sei sicuro?";
 "Log out warning double check" = "Verrà effettuato il logout ed eliminato il database locale dei preferiti dal dispositivo.";
@@ -137,3 +141,10 @@
 "Bookmarklet copied to clipboard." = "Bookmarklet copiato negli appunti.";
 "URL copied to clipboard." = "URL copiato negli appunti.";
 "Title copied to clipboard." = "Titolo copiato negli appunti.";
+
+// Bookmarklet Installation
+"Browser Integration" = "Integrazione browser";
+"Copy bookmarklet to clipboard" = "Copia il bookmarklet negli appunti";
+"Watch a video" = "Video tutorial";
+"How to install on Safari" = "Come installare su Safari";
+"How to install on Chrome for iOS" = "Come installare su Chrome per iOS";
