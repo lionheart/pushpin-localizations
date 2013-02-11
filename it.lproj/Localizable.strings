@@ -23,6 +23,8 @@
 "No" = "No";
 "Yes" = "Sì";
 "Updating bookmarks" = "Aggiornamento dei preferiti...";
+"1 bookmark was added." = "Aggiunto 1 preferito.";
+"%d bookmarks were added." = "Aggiunti %d preferiti.";
 
 // Tab Bar
 

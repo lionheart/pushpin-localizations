@@ -24,6 +24,8 @@
 "No" = "No";
 "Yes" = "Yes";
 "Updating bookmarks" = "Updating bookmarks";
+"1 bookmark was added." = "1 bookmark was added.";
+"%d bookmarks were added." = "%d bookmarks were added.";
 
 // Tab Bar
 
