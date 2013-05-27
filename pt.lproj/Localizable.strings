@@ -37,8 +37,6 @@
 "Update Bookmark" = "Atualizar Marcador";
 "Update" = "Feito";
 "Add Bookmark" = "Adicionar Marcador";
-"Add" = "Adicionar";
-"Cancel" = "Cancelar";
 "Add Bookmark?" = "Adicionar Marcador?";
 "We've detected a URL in your clipboard. Would you like to bookmark it?" = "Detetamos um URL na área de tranferência, gostaria de adicionar um marcador?";
 
@@ -70,7 +68,6 @@
 "URL" = "URL";
 "Title" = "Título";
 "Description" = "Descrição";
-"Tags" = "Etiquetas";
 "Separate tags with spaces" = "Separe etiquetas com espaços";
 "Private" = "Privado";
 "Copy URL" = "Copiar URL";

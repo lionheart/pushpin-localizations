@@ -37,8 +37,6 @@
 "Update Bookmark" = "Lesezeichen bearbeiten";
 "Update" = "Fertig";
 "Add Bookmark" = "Lesezeichen hinzufügen";
-"Add" = "Hinzufügen";
-"Cancel" = "Abbrechen";
 "Add Bookmark?" = "Lesezeichen hinzufügen?";
 "We've detected a URL in your clipboard. Would you like to bookmark it?" = "Wir haben eine URL in deiner Zwischenablage gefunden. Zu deinen Lesezeichen hinzufügen?";
 
@@ -70,7 +68,6 @@
 "URL" = "URL";
 "Title" = "Titel";
 "Description" = "Beschreibung";
-"Tags" = "Tags";
 "Separate tags with spaces" = "Tags durch Leerzeichen trennen";
 "Private" = "Privat";
 "Copy URL" = "URL kopieren";
@@ -110,7 +107,6 @@
 "Install Chrome?" = "Chrome installieren?";
 "In order to open links with Google Chrome, you first have to install it." = "Wenn du Links mit Google Chrome öffnen willst, muss dieser zuerst installiert werden.";
 
-"Are you sure?" = "Bist du sicher?";
 "This will log you out and delete the local bookmark database from your device." = "Du wirst nun abgemeldet und die lokale Lesezeichen Datenbank wird von deinem Gerät entfernt.";
 "Logging out of the application will reset the bookmark database on this device." = "Hierdurch wirst du von der Anwendung abgemeldet und die Lesezeichen Datenbank wird entfernt.";
 

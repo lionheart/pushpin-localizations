@@ -9,8 +9,6 @@
 // Generic
 
 "Default" = "Default";
-"Are you sure?" = "Are you sure?";
-"Cancel" = "Cancel";
 "OK" = "OK";
 "Edit" = "Edit";
 "Done" = "Done";
@@ -73,7 +71,6 @@
 "URL" = "URL";
 "Title" = "Title";
 "Description" = "Description";
-"Tags" = "Tags";
 "Separate tags with spaces" = "Swipe right to suggest tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period.";
 "Private" = "Private";
 "Copy URL" = "Copy URL";

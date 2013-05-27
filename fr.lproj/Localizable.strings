@@ -8,8 +8,6 @@
 // Generic
 
 "Default" = "Défaut";
-"Are you sure?" = "Êtes-vous sûr ?";
-"Cancel" = "Annuler";
 "OK" = "OK";
 "Edit" = "Éditer";
 "Done" = "Fait";
@@ -37,7 +35,6 @@
 "Update Bookmark" = "Mettre à jour le signet";
 "Update" = "Fait";
 "Add Bookmark" = "Ajouter un signet";
-"Add" = "Ajouter";
 "Cancel" = "Annuler";
 "Add Bookmark?" = "Ajouter un signet ?";
 "We've detected a URL in your clipboard. Would you like to bookmark it?" = "Nous avons détecté un lien dans votre presse-papier. Voudriez-vous l’ajouter ?";
@@ -70,7 +67,6 @@
 "URL" = "Lien";
 "Title" = "Titre";
 "Description" = "Description";
-"Tags" = "Étiquettes";
 "Separate tags with spaces" = "Séparez les étiquettes avec des espaces";
 "Private" = "Privé";
 "Copy URL" = "Copier le lien";
