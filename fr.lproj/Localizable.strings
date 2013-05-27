@@ -14,9 +14,9 @@
 "Edit" = "Éditer";
 "Done" = "Fait";
 "Shucks" = "Pfff";
-"Lighthearted Error" = "Hum hum...";
-"Lighthearted No" = "Pas vraiment, non!";
-"Lighthearted Yes" = "D’accord!";
+"Uh oh." = "Hum hum...";
+"Nope" = "Pas vraiment, non!";
+"Sure" = "D’accord!";
 "Success" = "Ca marche";
 "Delete" = "Effacer";
 "Share" = "Partager";
@@ -26,21 +26,21 @@
 
 // Tab Bar
 
-"Browse Tab Bar Title" = "Parcourir";
-"Settings Tab Bar Title" = "Paramètres";
-"Add Tab Bar Title" = "Ajouter";
-"Tags Tab Bar Title" = "Étiquettes";
-"Notes Tab Bar Title" = "Notes";
+"Browse" = "Parcourir";
+"Settings" = "Paramètres";
+"Add" = "Ajouter";
+"Tags" = "Étiquettes";
+"Notes" = "Notes";
 
 // Add Bookmark
 
-"Update Bookmark Page Title" = "Mettre à jour le signet";
-"Update Navigation Bar" = "Fait";
-"Add Bookmark Page Title" = "Ajouter un signet";
-"Add Navigation Bar" = "Ajouter";
-"Cancel Navigation Bar" = "Annuler";
-"URL in Clipboard Title" = "Ajouter un signet ?";
-"URL in Clipboard Message" = "Nous avons détecté un lien dans votre presse-papier. Voudriez-vous l’ajouter ?";
+"Update Bookmark" = "Mettre à jour le signet";
+"Update" = "Fait";
+"Add Bookmark" = "Ajouter un signet";
+"Add" = "Ajouter";
+"Cancel" = "Annuler";
+"Add Bookmark?" = "Ajouter un signet ?";
+"We've detected a URL in your clipboard. Would you like to bookmark it?" = "Nous avons détecté un lien dans votre presse-papier. Voudriez-vous l’ajouter ?";
 
 // Home Page
 
@@ -59,13 +59,13 @@
 
 // Bookmark Page
 
-"Bookmark Deleted Message" = "Votre signet a été supprimé.";
-"Bookmark Updated Message" = "Votre signet a été mis à jour.";
-"Bookmark Added Message" = "Votre signet a été ajouté.";
-"Bookmark Update Error Message" = "Erreur rencontrée durant la mise à jour de votre signet.";
-"Add bookmark title example" = "Le bookmarking pour les introvertis";
-"Add bookmark tag example" = "bookmarking antisocial";
-"Add bookmark missing url or title" = "Vous ne pouvez pas ajouter un signet dépourvu de lien ou de titre.";
+"Your bookmark was deleted." = "Votre signet a été supprimé.";
+"Your bookmark was updated." = "Votre signet a été mis à jour.";
+"Your bookmark was added." = "Votre signet a été ajouté.";
+"There was an error updating your bookmark." = "Erreur rencontrée durant la mise à jour de votre signet.";
+"Pinboard.in" = "Le bookmarking pour les introvertis";
+"pinboard .bookmarking" = "bookmarking antisocial";
+"You can't add a bookmark without a URL or title." = "Vous ne pouvez pas ajouter un signet dépourvu de lien ou de titre.";
 
 "URL" = "Lien";
 "Title" = "Titre";
@@ -84,17 +84,17 @@
 
 "Edit Bookmark" = "Éditer un signet";
 "Delete Bookmark" = "Effacer un signet";
-"Delete Bookmark Warning" = "Êtes-vous sûr de vouloir effacer ce signet ?";
+"Are you sure you want to delete this bookmark?" = "Êtes-vous sûr de vouloir effacer ce signet ?";
 
 // Login Page
 
 "Username" = "Nom d’utilisateur";
 "Password" = "Mot de passe";
 
-"Login Instructions" = "Entrez vos identifiants Pinboard ci-dessus. Envoyez un email à support@aurora.io si vous rencontrez le moindre problème.";
-"Login in Progress" = "Informations en cours de vérification...";
-"Login Failed" = "Nous n’avons pas pu vous identifier. Assurez-vous que vos informations sont valides.";
-"Login Successful" = "Votre authentification s’est déroulée avec succès. Merci de patienter pendant le téléchargement de vos signets.";
+"Enter your Pinboard credentials above. Email support support@aurora.io if you have any issues." = "Entrez vos identifiants Pinboard ci-dessus. Envoyez un email à support@aurora.io si vous rencontrez le moindre problème.";
+"Verifying your credentials..." = "Informations en cours de vérification...";
+"We couldn't log you in. Please make sure you've provided valid credentials." = "Nous n’avons pas pu vous identifier. Assurez-vous que vos informations sont valides.";
+"You have successfully authenticated. Please wait while we download your bookmarks." = "Votre authentification s’est déroulée avec succès. Merci de patienter pendant le téléchargement de vos signets.";
 
 "Google Chrome failed to open" = "On dirait que Google Chrome ne peut pas ouvrir ce lien. Cliquez sur OK pour l’ouvrir avec Safari.";
 
@@ -107,12 +107,12 @@
 
 "Open links with:" = "Ouvrir les liens avec";
 
-"Install Chrome Title" = "Installez Chrome ?";
-"Install Chrome Description" = "Pour ouvrir des liens dans Google Chrome, vous devez d’abord l’installer.";
+"Install Chrome?" = "Installez Chrome ?";
+"In order to open links with Google Chrome, you first have to install it." = "Pour ouvrir des liens dans Google Chrome, vous devez d’abord l’installer.";
 
-"Log out warning title" = "Êtes-vous sûr ?";
-"Log out warning double check" = "Ceci vous déconnectera et effacera les signets enregistrés sur votre appareil.";
-"Log out warning footer" = "Ceci vous déconnectera de l’application et remettra à zéro la base de données de l’application.";
+"Are you sure?" = "Êtes-vous sûr ?";
+"This will log you out and delete the local bookmark database from your device." = "Ceci vous déconnectera et effacera les signets enregistrés sur votre appareil.";
+"Logging out of the application will reset the bookmark database on this device." = "Ceci vous déconnectera de l’application et remettra à zéro la base de données de l’application.";
 
 "Log Out" = "Déconnexion";
 "Contact Support" = "Contacter le support technique";
@@ -129,8 +129,8 @@
 
 // About Page
 
-"About Page Title" = "À propos";
-"About Page Close" = "Fermer";
+"About" = "À propos";
+"Close" = "Fermer";
 
 // Notices
 

@@ -14,9 +14,9 @@
 "Edit" = "Modifica";
 "Done" = "Fine";
 "Shucks" = "Accidenti";
-"Lighthearted Error" = "Occhio!";
-"Lighthearted No" = "No";
-"Lighthearted Yes" = "Sì";
+"Uh oh." = "Occhio!";
+"Nope" = "No";
+"Sure" = "Sì";
 "Success" = "Completato";
 "Delete" = "Elimina";
 "Share" = "Condividi";
@@ -28,21 +28,21 @@
 
 // Tab Bar
 
-"Browse Tab Bar Title" = "Sfoglia";
-"Settings Tab Bar Title" = "Impostazioni";
-"Add Tab Bar Title" = "Aggiungi";
-"Tags Tab Bar Title" = "Tag";
-"Notes Tab Bar Title" = "Note";
+"Browse" = "Sfoglia";
+"Settings" = "Impostazioni";
+"Add" = "Aggiungi";
+"Tags" = "Tag";
+"Notes" = "Note";
 
 // Add Bookmark
 
-"Update Bookmark Page Title" = "Aggiorna preferito";
-"Update Navigation Bar" = "Fine";
-"Add Bookmark Page Title" = "Nuovo preferito";
-"Add Navigation Bar" = "Aggiungi";
-"Cancel Navigation Bar" = "Annulla";
-"URL in Clipboard Title" = "Aggiungere ai preferiti?";
-"URL in Clipboard Message" = "È stato rilevato un URL negli appunti. Vuoi aggiungerlo ai preferiti?";
+"Update Bookmark" = "Aggiorna preferito";
+"Update" = "Fine";
+"Add Bookmark" = "Nuovo preferito";
+"Add" = "Aggiungi";
+"Cancel" = "Annulla";
+"Add Bookmark?" = "Aggiungere ai preferiti?";
+"We've detected a URL in your clipboard. Would you like to bookmark it?" = "È stato rilevato un URL negli appunti. Vuoi aggiungerlo ai preferiti?";
 
 // Home Page
 
@@ -62,13 +62,13 @@
 
 // Bookmark Page
 
-"Bookmark Deleted Message" = "Il preferito è stato eliminato.";
-"Bookmark Updated Message" = "Il preferito è stato aggiornato.";
-"Bookmark Added Message" = "Il preferito è stato aggiunto.";
-"Bookmark Update Error Message" = "Errore nell'aggiornamento del preferito.";
-"Add bookmark title example" = "Preferiti per introversi";
-"Add bookmark tag example" = "preferito asociale";
-"Add bookmark missing url or title" = "Non è possibile aggiungere un preferito senza un URL o un titolo.";
+"Your bookmark was deleted." = "Il preferito è stato eliminato.";
+"Your bookmark was updated." = "Il preferito è stato aggiornato.";
+"Your bookmark was added." = "Il preferito è stato aggiunto.";
+"There was an error updating your bookmark." = "Errore nell'aggiornamento del preferito.";
+"Pinboard.in" = "Preferiti per introversi";
+"pinboard .bookmarking" = "preferito asociale";
+"You can't add a bookmark without a URL or title." = "Non è possibile aggiungere un preferito senza un URL o un titolo.";
 
 "URL" = "URL";
 "Title" = "Titolo";
@@ -87,17 +87,17 @@
 
 "Edit Bookmark" = "Modifica preferito";
 "Delete Bookmark" = "Elimina preferito";
-"Delete Bookmark Warning" = "Sei sicuro di voler eliminare questo preferito?";
+"Are you sure you want to delete this bookmark?" = "Sei sicuro di voler eliminare questo preferito?";
 
 // Login Page
 
 "Username" = "Nome utente";
 "Password" = "Password";
 
-"Login Instructions" = "Inserisci le informazioni di login del tuo account Pinboard. In caso di problemi, invia un'email a support@aurora.io";
-"Login in Progress" = "Verifica informazioni di login...";
-"Login Failed" = "Non è stato possibile effettuare il login. Controlla di aver inserito nome utente e password corretti.";
-"Login Successful" = "Login effettuato. Attendi lo scaricamento di tutti i tuoi preferiti.";
+"Enter your Pinboard credentials above. Email support support@aurora.io if you have any issues." = "Inserisci le informazioni di login del tuo account Pinboard. In caso di problemi, invia un'email a support@aurora.io";
+"Verifying your credentials..." = "Verifica informazioni di login...";
+"We couldn't log you in. Please make sure you've provided valid credentials." = "Non è stato possibile effettuare il login. Controlla di aver inserito nome utente e password corretti.";
+"You have successfully authenticated. Please wait while we download your bookmarks." = "Login effettuato. Attendi lo scaricamento di tutti i tuoi preferiti.";
 
 "Google Chrome failed to open" = "Sembra che Google Chrome non sia in grado di aprire il link. Tocca OK per aprirlo con Safari.";
 
@@ -111,14 +111,14 @@
 
 "Open links with:" = "Apri link con";
 
-"Install Chrome Title" = "Installare Chrome?";
-"Install Chrome Description" = "Per poter aprire i link con Google Chrome, devi prima installarlo.";
+"Install Chrome?" = "Installare Chrome?";
+"In order to open links with Google Chrome, you first have to install it." = "Per poter aprire i link con Google Chrome, devi prima installarlo.";
 
 "Rate us in the App Store" = "Valutaci sull'App Store";
 
-"Log out warning title" = "Sei sicuro?";
-"Log out warning double check" = "Verrà effettuato il logout ed eliminato il database locale dei preferiti dal dispositivo.";
-"Log out warning footer" = "Verrà effettuato il logout dall'applicazione e resettato il database dei preferiti.";
+"Are you sure?" = "Sei sicuro?";
+"This will log you out and delete the local bookmark database from your device." = "Verrà effettuato il logout ed eliminato il database locale dei preferiti dal dispositivo.";
+"Logging out of the application will reset the bookmark database on this device." = "Verrà effettuato il logout dall'applicazione e resettato il database dei preferiti.";
 
 "Log Out" = "Logout";
 "Contact Support" = "Contatta l'assistenza";
@@ -135,8 +135,8 @@
 
 // About Page
 
-"About Page Title" = "Info";
-"About Page Close" = "Chiudi";
+"About" = "Info";
+"Close" = "Chiudi";
 
 // Notices
 
