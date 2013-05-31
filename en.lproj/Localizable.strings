@@ -71,7 +71,7 @@
 "URL" = "URL";
 "Title" = "Title";
 "Description" = "Description";
-"Separate tags with spaces" = "Swipe right to suggest tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period.";
+"Separate tags with spaces" = "Swipe right to suggest popular tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period.";
 "Private" = "Private";
 "Copy URL" = "Copy URL";
 "Copy Title" = "Copy Title";
