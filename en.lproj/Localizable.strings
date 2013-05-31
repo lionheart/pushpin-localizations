@@ -91,7 +91,7 @@
 "Username" = "Username";
 "Password" = "Password";
 
-"Enter your Pinboard credentials above. Email support support@aurora.io if you have any issues." = "Enter your Pinboard credentials above. Email support support@aurora.io if you have any issues.";
+"Enter your Pinboard credentials above. Email support support@aurora.io if you have any issues." = "Enter your Pinboard credentials above.";
 "Verifying your credentials..." = "Verifying your credentials...";
 "We couldn't log you in. Please make sure you've provided valid credentials." = "We couldn't log you in. Please make sure you've provided valid credentials.";
 "You have successfully authenticated. Please wait while we download your bookmarks." = "You have successfully authenticated. Please wait while we download your bookmarks.";
