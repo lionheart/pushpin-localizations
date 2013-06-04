@@ -65,7 +65,7 @@
 "Your bookmark was added." = "Your bookmark was added.";
 "There was an error updating your bookmark." = "There was an error updating your bookmark.";
 "Pinboard.in" = "Pinboard.in";
-"pinboard .bookmarking" = "pinboard .bookmarking";
+"pinboard .bookmarking" = "Click to edit tags.";
 "You can't add a bookmark without a URL or title." = "You can't add a bookmark without a URL or title.";
 
 "URL" = "URL";
