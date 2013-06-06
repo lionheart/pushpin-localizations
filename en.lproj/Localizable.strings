@@ -103,7 +103,8 @@
 
 // Settings Page
 
-"Private by default?" = "Private by default";
+"Private by default?" = "Private by default?";
+
 "Open links with:" = "Open links with";
 
 "Install Chrome?" = "Install Chrome?";
