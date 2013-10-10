@@ -5,6 +5,27 @@
  Originally created by Riccardo Mori
  */
 
+// Feedback and support
+"Search" = "Cerca";
+"Post an idea" = "Invia un'idea";
+"Feedback Forum" = "Forum feedback";
+"Knowledge Base" = "Supporto";
+"Frequently Asked Questions" = "Domande più frequenti";
+"Translations" = "Localizzazioni";
+"Search Tips" = "Suggerimenti per la ricera";
+"URL Scheme" = "Schema URL";
+
+// Misc
+"Click to edit description." = "Tocca per modificare la descrizione.";
+
+// Feed list
+"Saved Feeds" = "Feed salvati";
+"You have no saved feeds." = "Nessun feed salvato.";
+
+// Add feed
+"Add Feed" = "Aggiungi Feed";
+"Tags, separated by spaces" = "Tag, separati da spazi";
+
 // Generic
 
 "Default" = "Default";
@@ -25,6 +46,43 @@
 "Updating bookmarks" = "Aggiornamento dei preferiti...";
 "1 bookmark was added." = "Aggiunto 1 preferito.";
 "%d bookmarks were added." = "Aggiunti %d preferiti.";
+
+// About
+"Designed and developed by Lionheart Software." = "Progettato e sviluppato da Lionheart Software";
+"View changelog" = "Registro delle modifiche";
+"Follow Pushing on Twitter" = "Segui Pushing su Twitter";
+"Review Pushpin on iTunes" = "Valuta Pushing su iTunes";
+
+"Product design and development" = "Product design e sviluppo";
+"Product development" = "Product sviluppo";
+"Visual design" = "Progettazione visiva";
+
+"Attributions" = "Attribuzioni";
+"Tap to view license." = "Tocca per vedere la licenza";
+
+"Read Later Service" = "Servizio Read Later";
+"Display Settings" = "Impostazioni visualizzazione";
+"Browser Settings" = "Impostazioni browser";
+"Feedback & Support" = "Feedback & Supporto";
+"Purge Cache" = "Svuota la cache";
+
+// Display Settings
+"Dim read bookmarks?" = "Schiarire preferiti già letti?";
+"Hide tags & descriptions?" = "Nascondere tag & descrizioni?";
+"You can also toggle this by pinching in or out when viewing bookmarks." = "Si può ottenere lo stesso effetto pizzicando verso l'interno o verso l'esterno mentre si consultano i preferiti.";
+
+// Info
+"For always believing in me." = "Per credere sempre in me.";
+"Dante and Isabelle" = "Dante e Isabelle";
+"For inspiring me and making me laugh." = "Per l'ispirazione e le risate.";
+"For making Pinboard." = "Per aver creato Pinboard.";
+"For donating the getpushpin.com domain name." = "Per aver donato il nome di dominio getpushpin.com";
+"Italian translation." = "Localizzazione in italiano.";
+"German translation." = "Localizzazione in tedesco.";
+"French translation." = "Localizzazione in francese.";
+"Portugese translation." = "Localizzazione in potoghese.";
+
+"Acknowledgements" = "Ringraziamenti";
 
 // Tab Bar
 
@@ -129,6 +187,8 @@
 "Set Read Later service to:" = "Imposta il servizio Read Later su:";
 "None" = "Nessuno";
 
+"For stripping text, CSS, and Javascript from webpages." = "Per eliminare testo, CSS e Javascript dalle pagina Web.";
+
 // About Page
 
 "About" = "Info";
@@ -139,6 +199,9 @@
 "Bookmarklet copied to clipboard." = "Bookmarklet copiato negli appunti.";
 "URL copied to clipboard." = "URL copiato negli appunti.";
 "Title copied to clipboard." = "Titolo copiato negli appunti.";
+"Your cache was cleared." = "La cache è stata svuotat";
+"Success" = "Completato";
+"\"Purge cache\" in settings if you'd like to add the URL on your clipboard." = "\"Svuota la cache\" nelle impostazioni se vuoi aggiungere l'URL presente negli appunti.";
 
 // Bookmarklet Installation
 "Browser Integration" = "Integrazione browser";
