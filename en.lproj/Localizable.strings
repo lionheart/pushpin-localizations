@@ -102,8 +102,8 @@
 "Open in Safari" = "Open in Safari";
 
 // Settings Page
-
-"Private by default?" = "Private by default?";
+"Private by default?" = "Add as private by default";
+"Read by default?" = "Mark as read by default";
 
 "Open links with:" = "Open links with";
 
