@@ -68,7 +68,7 @@
 
 // Display Settings
 "Dim read bookmarks" = "Schiarire preferiti già letti?";
-"Hide tags & descriptions" = "Nascondere tag & descrizioni?";
+"Compress bookmark list" = "Nascondere tag & descrizioni?";
 "You can also toggle this by pinching in or out when viewing bookmarks." = "Si può ottenere lo stesso effetto pizzicando verso l'interno o verso l'esterno mentre si consultano i preferiti.";
 
 // Info
