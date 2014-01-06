@@ -41,7 +41,7 @@
 "Add" = "Add";
 "Cancel" = "Cancel";
 "Add Bookmark?" = "Add Bookmark?";
-"We've detected a URL in your clipboard. Would you like to bookmark it?" = "We've detected a URL in your clipboard. Would you like to bookmark it?";
+"We've detected a URL in your clipboard. Would you like to bookmark it?" = "Pushpin detected a link in your clipboard. Would you like to add it to your bookmarks?";
 
 // Home Page
 
