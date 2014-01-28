@@ -101,8 +101,8 @@
 // Settings Page
 
 "Private by default?" = "Privat als Standard?";
-
 "Open links with:" = "Links öffnen mit";
+"Read" = "Gelesen"
 
 "Install Chrome?" = "Chrome installieren?";
 "In order to open links with Google Chrome, you first have to install it." = "Wenn du Links mit Google Chrome öffnen willst, muss dieser zuerst installiert werden.";
