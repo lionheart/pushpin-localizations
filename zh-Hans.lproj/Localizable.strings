@@ -1,0 +1,186 @@
+/*
+ Localizable.strings
+ Pushpin for Pinboard
+
+
+ Originally created by Wu Liang (aka woolane)
+ */
+
+
+// Generic
+
+"Default" = "默认";
+
+"OK" = "OK";
+"Edit" = "编辑";
+
+"Done" = "完成";
+"Shucks" = "神烦";
+"Uh oh." = "哦~";
+
+"Nope" = "不要";
+"Sure" = "当然";
+
+"Success" = "成功";
+"Delete" = "删除";
+"Share" = "分享";
+
+"No" = "不";
+"Yes" = "是";
+
+"Updating bookmarks" = "书签更新中";
+
+// Tab Bar
+
+
+"Browse" = "浏览";
+"Settings" = "设定";
+
+"Add" = "添加";
+"Tags" = "标签";
+"Notes" = "备注";
+
+
+// Add Bookmark
+
+"Update Bookmark" = "更新书签";
+
+"Update" = "更新";
+"Add Bookmark" = "添加书签";
+
+"Cancel" = "取消";
+"Add Bookmark?" = "添加书签？";
+"We've detected a URL in your clipboard. Would you like to bookmark it?" = "我们在粘贴板检测到一个网址。你想要将它加入书签吗？";
+
+
+// Home Page
+
+
+"All" = "全部";
+"All Bookmarks" = "全部书签";
+"Private Bookmarks" = "私密书签";
+
+"Public" = "公共";
+"Unread" = "未读";
+
+"Untagged" = "无标签";
+"Bookmarks" = "书签";
+"Personal" = "个人";
+
+"Community" = "社区";
+"Fandom" = "粉丝";
+
+"Popular" = "流行";
+"Network" = "网络";
+
+
+// Bookmark Page
+
+"Your bookmark was deleted." = "你的书签已删除。";
+
+"Your bookmark was updated." = "你的书签已更新。";
+"Your bookmark was added." = "你的书签已添加。";
+
+"There was an error updating your bookmark." = "更新书签时出现错误。";
+"Pinboard.in" = "Pinboard.in";
+
+"pinboard .bookmarking" = "点击编辑标签";
+"You can't add a bookmark without a URL or title." = "没有网址或者标题无法添加书签。";
+
+
+"URL" = "网址";
+"Title" = "标题";
+
+"Description" = "描述";
+"Separate tags with spaces" = "用空格键区隔标签";
+"Private" = "私密";
+
+"Copy URL" = "复制网址";
+"Copy Title" = "复制标题";
+
+"Other" = "其他";
+"Set as private?" = "设为私密？";
+"Mark as read?" = "标记为已读？";
+
+"Copy to mine" = "复制到我的书签";
+"Send to Instapaper" = "发给 Instapaper";
+
+"Send to Readability" = "发给 Readability";
+
+"Edit Bookmark" = "编辑书签";
+
+"Delete Bookmark" = "删除书签";
+"Are you sure you want to delete this bookmark?" = "你确定要删除这个书签吗？";
+
+
+// Login Page
+
+
+"Username" = "账户";
+"Password" = "密码";
+
+
+"Enter your Pinboard credentials above. Email support support@aurora.io if you have any issues." = "请在上面输入你的 Pinboard 账户信息。如有问题，请发邮件至 support@aurora.io 寻求帮助。";
+
+"Verifying your credentials..." = "正在核实你的信息... ...";
+"We couldn't log you in. Please make sure you've provided valid credentials." = "无法登录。请确保你提供了正确的信息。";
+
+"You have successfully authenticated. Please wait while we download your bookmarks." = "已经成功授权。我们正在下载你的书签，稍等片刻。";
+
+
+"Google Chrome failed to open" = "Google Chrome 无法打开";
+
+
+"Mark as read" = "标记为已读";
+"Open in Safari" = "在 Safari 打开";
+
+
+// Settings Page
+
+"Private by default?" = "默认为私密？";
+
+
+"Open links with:" = "选择打开链接的浏览器：";
+
+
+"Install Chrome?" = "安装 Chrome ？";
+"In order to open links with Google Chrome, you first have to install it." = "如果想要使用 Google Chrome 打开链接，请先安装。";
+
+
+"Are you sure?" = "你确定吗？";
+
+"This will log you out and delete the local bookmark database from your device." = "即将退出你的账户并将设备中的本地书签数据库删除。";
+"Logging out of the application will reset the bookmark database on this device." = "退出账户将会重置设备中的书签数据库。";
+
+
+"Log Out" = "退出";
+"Contact Support" = "联系帮助团队";
+
+"Request a feature" = "要求增加功能";
+"Report a bug" = "发送故障报告";
+
+"Email us" = "给我们发电邮";
+"Support Email Subject" = "Help Me!";
+"Give Feedback" = "提供反馈信息";
+
+
+"About Navigation Bar" = "关于导航栏";
+
+"Read Later" = "稍后读";
+"Set Read Later service to:" = "将稍后读服务设置为：";
+"None" = "无";
+
+
+// About Page
+
+
+"About" = "关于";
+"Close" = "关闭";
+
+
+// Notices
+
+"Bookmarklet copied to clipboard." = "书签已复制到粘贴板。";
+
+"URL copied to clipboard." = "网址已复制到粘贴板。";
+"Title copied to clipboard." = "标题已复制到粘贴板。";
