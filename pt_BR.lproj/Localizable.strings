@@ -19,7 +19,7 @@
 "Sure" = "Claro";
 "Success" = "Sucesso";
 "Delete" = "Apagar";
-"Share" = "Partilhar";
+"Share" = "Compartilhar";
 "No" = "Não";
 "Yes" = "Sim";
 "Updating bookmarks" = "Atualizando favoritos";
@@ -34,11 +34,11 @@
 
 // Add Bookmark
 
-"Update Bookmark" = "Atualizar Favorito";
-"Update" = "Atualizar";
+"Update Bookmark" = "Atualizar Marcador";
+"Update" = "Atualizado";
 "Add Bookmark" = "Adicionar Favorito";
 "Add Bookmark?" = "Adicionar Favorito?";
-"We've detected a URL in your clipboard. Would you like to bookmark it?" = "Nós detectamos uma URL na área de tranferência, gostaria de adicionar aos seus favoritos?";
+"We've detected a URL in your clipboard. Would you like to bookmark it?" = "Detectamos uma URL na área de tranferência, gostaria de adicionar um favorito?";
 
 // Home Page
 
@@ -48,7 +48,7 @@
 "Public" = "Público";
 "Unread" = "Não lidas";
 "Untagged" = "Sem etiqueta";
-"Bookmarks" = "favoritos";
+"Bookmarks" = "Favoritos";
 "Personal" = "Pessoal";
 "Community" = "Comunidade";
 "Fandom" = "Fandom";
@@ -57,10 +57,10 @@
 
 // Bookmark Page
 
-"Your bookmark was deleted." = "Seu favorito foi apagado.";
-"Your bookmark was updated." = "Seu favorito foi atualizado.";
-"Your bookmark was added." = "Seu favorito foi adicionado.";
-"There was an error updating your bookmark." = "Ocorreu um erro ao atualizar seu favorito.";
+"Your bookmark was deleted." = "O favorito foi apagado.";
+"Your bookmark was updated." = "O favorito foi atualizado.";
+"Your bookmark was added." = "O favorito foi adicionado.";
+"There was an error updating your bookmark." = "Ocorreu um erro ao atualizar o favorito.";
 "Pinboard.in" = "Favoritos para introvertidos";
 "pinboard .bookmarking" = "favoritos antisociais";
 "You can't add a bookmark without a URL or title." = "Você não pode adicionar um favorito sem uma URL ou título.";
@@ -81,18 +81,18 @@
 
 "Edit Bookmark" = "Editar Favorito";
 "Delete Bookmark" = "Apagar Favorito";
-"Are you sure you want to delete this bookmark?" = "Você tem certeza que deseja apagar este favorito?";
+"Are you sure you want to delete this bookmark?" = "Você tem certeza que quer apagar o favorito?";
 
 // Login Page
 
 "Username" = "Usuário";
 "Password" = "Senha";
 
-"Enter your Pinboard credentials above. Email support support@aurora.io if you have any issues." = "Insira os detalhes de acesso ao Pinboard acima. Envie um email para support@aurora.io se encontrar algum problema.";
+"Enter your Pinboard credentials above. Email support support@aurora.io if you have any issues." = "Insira as credenciais do Pinboard acima. Envie um email para support@aurora.io se encontrar algum problema.";
 "Verifying your credentials..." = "Verificando suas credenciais...";
-"We couldn't log you in. Please make sure you've provided valid credentials." = "Seu Login esta inválido. Por favor certifique-se que inseriu os dados corretamente.";
-"You have successfully authenticated. Please wait while we download your bookmarks." = "Seu login foi efetuado com sucesso. Por favor aguarde enquanto realizamos o download dos seus favoritos.";
-"Google Chrome failed to open" = "O Google Chrome não consegue abrir este link. Pressione OK para abrir com o Safari.";
+"We couldn't log you in. Please make sure you've provided valid credentials." = "Não conseguimos conectá-lo. Por favor certifique-se que inseriu as credenciais corretamente.";
+"You have successfully authenticated. Please wait while we download your bookmarks." = "A autenticação foi efetuada com sucesso. Por favor espere enquanto baixamos os marcadores.";
+"Google Chrome failed to open" = "Falha ao abrir o Google Chrome";
 
 "Mark as read" = "Marcar como lido";
 "Open in Safari" = "Abrir no Safari";
@@ -104,11 +104,12 @@
 "Open links with:" = "Abrir links com";
 
 "Install Chrome?" = "Instalar Chrome?";
-"In order to open links with Google Chrome, you first have to install it." = "Para abrir links com o Google Chrome, primeiro você deve ter ele instalado.";
 
-"Are you sure?" = "Você tem certeza";
-"This will log you out and delete the local bookmark database from your device." = "Isto fará você sair e apagar a base de dados dos seus favoritos localizados no seu dispositivo.";
-"Logging out of the application will reset the bookmark database on this device." = "Isto fará você sair da aplicação e restabelecer a base de dados da aplicação.";
+"In order to open links with Google Chrome, you first have to install it." = "Você precisa ter o Google Chrome instalado para poder abrir os links.";
+
+"Are you sure?" = "Você tem certeza?";
+"This will log you out and delete the local bookmark database from your device." = "Isso fará com que você saia e apagará a base de dados local dos favoritos de seu dispositivo.";
+"Logging out of the application will reset the bookmark database on this device." = "Sair da aplicação fará com que a base de dados dos favoritos seja resetada em seu dispositivo.";
 
 "Log Out" = "Sair";
 "Contact Support" = "Contactar Suporte";
@@ -130,7 +131,7 @@
 
 // Notices
 
-"Bookmarklet copied to clipboard." = "Favorito copiado para a área de transferência.";
-"URL copied to clipboard." = "URL copiado para a área de transferência.";
+"Bookmarklet copied to clipboard." = "Bookmarklet copiado para a área de transferência.";
+"URL copied to clipboard." = "URL copiada para a área de transferência.";
 "Title copied to clipboard." = "Título copiado para a área de transferência.";
 
