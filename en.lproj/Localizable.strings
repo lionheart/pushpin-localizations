@@ -191,6 +191,7 @@
 "Tap an existing tag to remove it" = "Tap an existing tag to remove it";
 
 //Browsers
+
 "Safari" = "Safari";
 "Chrome" = "Chrome";
 "iCab Mobile" = "iCab Mobile";
@@ -199,11 +200,13 @@
 "Opera" = "Opera";
 
 // Feed List Page
+
 "Search" = "Search";
 "You can't browse popular feeds unless you have an active Internet connection." = "You can't browse popular feeds unless you have an active Internet connection.";
 
 
 // Search Page
+
 "Advanced Searching" = "Advanced Searching";
 "Search scope" = "Search scope";
 "Search Full-Text" = "Search Full-Text";
@@ -212,6 +215,7 @@
 
 
 // Tag View Page
+
 "Suggest" = "Suggest";
 "Are you sure you want to delete this tag? There is no undo." = "Are you sure you want to delete this tag? There is no undo.";
 
