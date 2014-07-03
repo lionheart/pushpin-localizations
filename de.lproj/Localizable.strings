@@ -136,7 +136,7 @@
 
 // New translated strings
 
-"%d bookmarks were added." = "&d Lesezeichen wurden hinzugefügt."
+"%d bookmarks were added." = "%d Lesezeichen wurden hinzugefügt."
 "1 bookmark was added." = "Ein Lesezeichen wurde hinzugefügt."
 "Add" = "Hinzufügen";
 "Advanced Searching" = "Erweiterte Suche";
