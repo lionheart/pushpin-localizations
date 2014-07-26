@@ -27,13 +27,13 @@
 "Browse" = "Parcourir";
 "Settings" = "Paramètres";
 "Add" = "Ajouter";
-"Tags" = "Étiquettes";
+"Tags" = "Tags";
 "Notes" = "Notes";
 
 // Add Bookmark
 
 "Update Bookmark" = "Mettre à jour le signet";
-"Update" = "Fait";
+"Update" = "Enregistrer";
 "Add Bookmark" = "Ajouter un signet";
 "Cancel" = "Annuler";
 "Add Bookmark?" = "Ajouter un signet ?";
@@ -46,7 +46,7 @@
 "Private Bookmarks" = "Privé";
 "Public" = "Public";
 "Unread" = "Non lu";
-"Untagged" = "Non étiqueté";
+"Untagged" = "Sans tag";
 "Bookmarks" = "Signets";
 "Personal" = "Personnel";
 "Community" = "Communauté";
@@ -67,7 +67,7 @@
 "URL" = "Lien";
 "Title" = "Titre";
 "Description" = "Description";
-"Separate tags with spaces" = "Séparez les étiquettes avec des espaces";
+"Separate tags with spaces" = "Séparez les tags avec des espaces";
 "Private" = "Privé";
 "Copy URL" = "Copier le lien";
 "Copy Title" = "Copier le titre";
@@ -140,7 +140,7 @@
 "Add" = "Ajouter";
 "Advanced Searching" = "Recherche avancée";
 "Always show add prompt" = "Toujours afficher la fenêtre d'ajout";
-"Always show the add bookmark prompt, even for URLs that Pushpin has seen before." = "Toujours afficher la fenêtre d'ajout, même pour les URLs que Pushpin a déjà vu";
+"Always show the add bookmark prompt, even for URLs that Pushpin has seen before." = "Toujours afficher la fenêtre d'ajout, même pour les liens que Pushpin a déjà vu";
 "Are you sure you want to delete these bookmarks?" = "Êtes-vous sûr de vouloir effacer ces signets?";
 "Are you sure you want to delete this tag? There is no undo." = "Êtes-vous sûr de vouloir effacer ce tag? Cette action est définitive";
 "Authentication Error" = "Erreur d'authentification";
@@ -151,7 +151,7 @@
 "Compress bookmark list" = "Compresser la liste des signets";
 "Cyberspace" = "Cyberespace";
 "Delete" = "Effacer";
-"Display a notification when the URL currently on the clipboard is one that you've previously decided not to add." = "Afficher une notification quand l'ajout de l'URL du prese-papier a déjà été refusé";
+"Display a notification when the URL currently on the clipboard is one that you've previously decided not to add." = "Afficher une notification quand l'ajout de le lien du prese-papier a déjà été refusé";
 "Dolphin" = "Dauphin";
 "Email Address" = "Adresse e-mail";
 "Error sending to Readability." = "Erreur lors de l'envoi à Readability";
@@ -176,8 +176,8 @@
 "Read" = "Lu";
 "Readability Login" = "Identification Readability";
 "Remove" = "Supprimer";
-"Reset the list of stored URLs" = "Remettre à zéro la liste des URLs stockées";
-"Resets the list of URLs that you've decided not to add from the clipboard." = "Remettre à zéro la liste des URLs que vous avez décidé de ne pas ajouter depuis le presse-papier.";
+"Reset the list of stored URLs" = "Remettre à zéro la liste des liens stockés";
+"Resets the list of URLs that you've decided not to add from the clipboard." = "Remettre à zéro la liste des liens que vous avez décidé de ne pas ajouter depuis le presse-papier.";
 "Resetting Cache" = "Nettoyage du cache";
 "Resetting stored URL list" = "Remise à zéro de la liste des signets stockés";
 "Safari" = "Safari";
@@ -189,7 +189,7 @@
 "Sent to Readability." = "Envoyé à Readability";
 "Starred" = "Étoilé";
 "Suggest" = "Suggérer";
-"Tagged" = "Taggé";
+"Tagged" = "Avec tag";
 "Tap an existing tag to remove it" = "Tapez un tag existant pour l'enlever";
 "Tap to add tags." = "Tapez pour ajouter des tags";
 "The URL list was cleared." = "La liste des URLs a été vidée.";
