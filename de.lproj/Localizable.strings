@@ -210,18 +210,57 @@
 
 // Strings Needing Translation
 
-/*
+//
+// Untranslated Strings
+//
 
+// Tag Suggestions
+"Suggest" = "Suggest"
+"Hide" = "Hide"
 
-"Almost ready to go, but not quite functional yet."
+// Reader Settings
+"Font" = "Font"
+"Header Font" = "Header Font"
+"Font size" = "Font size"
+
+"Preview" = "Preview"
+"Minimize" = "Minimize"
+
+"Text Alignment" = "Text Alignment"
+"Justified" = "Justified"
+"Left" = "Left"
+"Right" = "Right"
+"Center" = "Center"
+
+"Line Spacing" = "Line Spacing"
+"Margins" = "Margins"
+"Display images?" = "Display images?"
+
+// Feed List
+"Browse" = "Browse"
+"Wikipedia" = "Wikipedia"
+"Recent" = "Recent"
+
+// Notifications
+"Bookmark marked as read." = "Bookmark marked as read."
+"%lu bookmarks selected" = "%lu bookmarks selected"
+"%lu snippets" = "%lu snippets"
+"1 bookmark selected" = "1 bookmark selected"
+"1 snippet" = "1 snippet"
+
+// Misc
+"Add Feed" = "Add Feed"
+"Advanced Settings" = "Advanced Settings"
+"Changelog" = "Changelog"
+"Edit Tags" = "Edit Tags"
+"Enable TextExpander" = "Enable TextExpander"
+"Launch 1Password" = "Launch 1Password"
+"Resets the list of URLs that you've decided not to add from the clipboard." = "Resets the list of URLs that you've decided not to add from the clipboard."
+"Update TextExpander Snippets" = "Update TextExpander Snippets"
+"Always show the add bookmark prompt, even for URLs that Pushpin has seen before."
+"You can't browse popular feeds unless you have an active Internet connection."
+"You can also toggle this by pinching in or out when viewing bookmarks."
+"Display a notification when the URL currently on the clipboard is one that you've previously decided not to add."
 "Clear"
 "Cyberspace"
-"Display a notification when the URL currently on the clipboard is one that you've previously decided not to add."
-"Suggest"
 "Support Email Subject"
-"You can also toggle this by pinching in or out when viewing bookmarks."
-"You can't browse popular feeds unless you have an active Internet connection."
-"iCab Mobile"
-"Always show the add bookmark prompt, even for URLs that Pushpin has seen before."
-
-*/

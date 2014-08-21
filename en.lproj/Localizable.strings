@@ -219,12 +219,51 @@
 "Suggest" = "Suggest";
 "Are you sure you want to delete this tag? There is no undo." = "Are you sure you want to delete this tag? There is no undo.";
 
+//
+// Updated Strings
+//
 
+// Tag Suggestions
+"Suggest" = "Suggest"
+"Hide" = "Hide"
 
+// Reader Settings
+"Font" = "Font"
+"Header Font" = "Header Font"
+"Font size" = "Font size"
 
+"Preview" = "Preview"
+"Minimize" = "Minimize"
 
+"Text Alignment" = "Text Alignment"
+"Justified" = "Justified"
+"Left" = "Left"
+"Right" = "Right"
+"Center" = "Center"
 
+"Line Spacing" = "Line Spacing"
+"Margins" = "Margins"
+"Display images?" = "Display images?"
 
+// Feed List
+"Browse" = "Browse"
+"Wikipedia" = "Wikipedia"
+"Recent" = "Recent"
 
+// Notifications
+"Bookmark marked as read." = "Bookmark marked as read."
+"%lu bookmarks selected" = "%lu bookmarks selected"
+"%lu snippets" = "%lu snippets"
+"1 bookmark selected" = "1 bookmark selected"
+"1 snippet" = "1 snippet"
 
+// Misc
+"Add Feed" = "Add Feed"
+"Advanced Settings" = "Advanced Settings"
+"Changelog" = "Changelog"
+"Edit Tags" = "Edit Tags"
+"Enable TextExpander" = "Enable TextExpander"
+"Launch 1Password" = "Launch 1Password"
+"Resets the list of URLs that you've decided not to add from the clipboard." = "Resets the list of URLs that you've decided not to add from the clipboard."
+"Update TextExpander Snippets" = "Update TextExpander Snippets"
 
