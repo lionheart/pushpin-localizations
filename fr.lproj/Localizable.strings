@@ -3,6 +3,7 @@
  Pushpin for Pinboard
 
  Originally created by Jérôme Tomasini
+ Updated by Sébastien Pennec (Twitter: @SebPennec)
  */
 
 // Generic
@@ -139,46 +140,46 @@
 //
 
 // Tag Suggestions
-"Suggest" = "Suggest"
-"Hide" = "Hide"
+"Suggest" = "Suggérer";
+"Hide" = "Cacher";
 
 // Reader Settings
-"Font" = "Font"
-"Header Font" = "Header Font"
-"Font size" = "Font size"
+"Font" = "Police";
+"Header Font" = "Police des en-têtes";
+"Font size" = "Taille de la police";
 
-"Preview" = "Preview"
-"Minimize" = "Minimize"
+"Preview" = "Prévisualiser";
+"Minimize" = "Minimiser";
 
-"Text Alignment" = "Text Alignment"
-"Justified" = "Justified"
-"Left" = "Left"
-"Right" = "Right"
-"Center" = "Center"
+"Text Alignment" = "Aligement du texte";
+"Justified" = "Justifié";
+"Left" = "Gauche";
+"Right" = "Droite";
+"Center" = "Centre";
 
-"Line Spacing" = "Line Spacing"
-"Margins" = "Margins"
-"Display images?" = "Display images?"
+"Line Spacing" = "Espace inter-ligne";
+"Margins" = "Marges";
+"Display images?" = "Afficher les images?";
 
 // Feed List
-"Browse" = "Browse"
-"Wikipedia" = "Wikipedia"
-"Recent" = "Recent"
+"Browse" = "Naviguer";
+"Wikipedia" = "Wikipedia";
+"Recent" = "Récents";
 
 // Notifications
-"Bookmark marked as read." = "Bookmark marked as read."
-"%lu bookmarks selected" = "%lu bookmarks selected"
-"%lu snippets" = "%lu snippets"
-"1 bookmark selected" = "1 bookmark selected"
-"1 snippet" = "1 snippet"
+"Bookmark marked as read." = "Signet marqué comme lu.";
+"%lu bookmarks selected" = "%lu signets sélectionnés";
+"%lu snippets" = "%lu extraits";
+"1 bookmark selected" = "1 signet sélectionné";
+"1 snippet" = "1 extrait";
 
 // Misc
-"Add Feed" = "Add Feed"
-"Advanced Settings" = "Advanced Settings"
-"Changelog" = "Changelog"
-"Edit Tags" = "Edit Tags"
-"Enable TextExpander" = "Enable TextExpander"
-"Launch 1Password" = "Launch 1Password"
-"Resets the list of URLs that you've decided not to add from the clipboard." = "Resets the list of URLs that you've decided not to add from the clipboard."
-"Update TextExpander Snippets" = "Update TextExpander Snippets"
+"Add Feed" = "Ajouter un flux";
+"Advanced Settings" = "Paramètres avancés";
+"Changelog" = "Liste des changements";
+"Edit Tags" = "Editer les tags";
+"Enable TextExpander" = "Activer TextExpander";
+"Launch 1Password" = "Lancer 1Password";
+"Resets the list of URLs that you've decided not to add from the clipboard." = "Remettre à zéro la liste des liens que vous avez décidé de ne pas ajouter depuis le presse-papier.";
+"Update TextExpander Snippets" = "Mettre à jour les raccourcis TextExpander";
 
