@@ -214,3 +214,90 @@
 
 "Suggest" = "Suggest";
 "Are you sure you want to delete this tag? There is no undo." = "Are you sure you want to delete this tag? There is no undo.";
+
+
+/*
+// Untranslated Strings
+
+"%lu bookmarks selected" = "%lu bookmarks selected";
+"%lu snippets" = "%lu snippets";
+"1 bookmark selected" = "1 bookmark selected";
+"1 snippet" = "1 snippet";
+"Acknowledgements" = "Acknowledgements";
+"Add Feed" = "Add Feed";
+"Advanced Settings" = "Advanced Settings";
+"Attributions" = "Attributions";
+"Bookmark marked as read." = "Bookmark marked as read.";
+"Browser Integration" = "Browser Integration";
+"Browser Settings" = "Browser Settings";
+"Center" = "Center";
+"Changelog" = "Changelog";
+"Click to edit description." = "Click to edit description.";
+"Clipboard url detection" = "Clipboard url detection";
+"Copy bookmarklet to clipboard" = "Copy bookmarklet to clipboard";
+"Dante and Isabelle" = "Dante and Isabelle";
+"Default Browser" = "Default Browser";
+"Default Feed" = "Default Feed";
+"Designed and developed by Lionheart Software." = "Designed and developed by Lionheart Software.";
+"Dim read bookmarks" = "Dim read bookmarks";
+"Display Settings" = "Display Settings";
+"Display images?" = "Display images?";
+"Edit Tags" = "Edit Tags";
+"Editing" = "Editing";
+"Enable TextExpander" = "Enable TextExpander";
+"Feedback & Support" = "Feedback & Support";
+"Feedback Forum" = "Feedback Forum";
+"Follow @Pushpin_app on Twitter" = "Follow @Pushpin_app on Twitter";
+"Follow Pushing on Twitter" = "Follow Pushing on Twitter";
+"Font size" = "Font size";
+"Font" = "Font";
+"For always believing in me." = "For always believing in me.";
+"For donating the getpushpin.com domain name." = "For donating the getpushpin.com domain name.";
+"For inspiring me and making me laugh." = "For inspiring me and making me laugh.";
+"For making Pinboard." = "For making Pinboard.";
+"For stripping text, CSS, and Javascript from webpages." = "For stripping text, CSS, and Javascript from webpages.";
+"French translation." = "French translation.";
+"Frequently Asked Questions" = "Frequently Asked Questions";
+"German translation." = "German translation.";
+"Header Font" = "Header Font";
+"Hide" = "Hide";
+"How to install on Chrome for iOS" = "How to install on Chrome for iOS";
+"How to install on Safari" = "How to install on Safari";
+"Italian translation." = "Italian translation.";
+"Justified" = "Justified";
+"Knowledge Base" = "Knowledge Base";
+"Launch 1Password" = "Launch 1Password";
+"Left" = "Left";
+"Line Spacing" = "Line Spacing";
+"Main Settings" = "Main Settings";
+"Margins" = "Margins";
+"Minimize" = "Minimize";
+"Portugese translation." = "Portugese translation.";
+"Post an idea" = "Post an idea";
+"Preview" = "Preview";
+"Product design and development" = "Product design and development";
+"Product development" = "Product development";
+"Purge Cache" = "Purge Cache";
+"Rate us in the App Store" = "Rate us in the App Store";
+"Read Later Service" = "Read Later Service";
+"Recent" = "Recent";
+"Review Pushpin on iTunes" = "Review Pushpin on iTunes";
+"Right" = "Right";
+"Saved Feeds" = "Saved Feeds";
+"Search Tips" = "Search Tips";
+"Support E-Mail Subject" = "Support E-Mail Subject";
+"Tags, separated by spaces" = "Tags, separated by spaces";
+"Tap to view license." = "Tap to view license.";
+"Text Alignment" = "Text Alignment";
+"The selected default feed will be shown immediately after starting the app" = "The selected default feed will be shown immediately after starting the app";
+"Translations" = "Translations";
+"URL Scheme" = "URL Scheme";
+"Update TextExpander Snippets" = "Update TextExpander Snippets";
+"View changelog" = "View changelog";
+"Visual design" = "Visual design";
+"Watch a video" = "Watch a video";
+"Wikipedia" = "Wikipedia";
+"You have no saved feeds." = "You have no saved feeds.";
+"\"Purge cache\" in settings if you'd like to add the URL on your clipboard." = "\"Purge cache\" in settings if you'd like to add the URL on your clipboard.";
+
+*/
