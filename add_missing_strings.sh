@@ -31,3 +31,6 @@ for i in `ls *.lproj/Localizable.strings`; do
         printf "\n*/" >> $i
     fi
 done;
+
+rm current
+rm all_strings
