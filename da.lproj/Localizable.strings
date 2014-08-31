@@ -81,7 +81,7 @@
 "URL" = "URL";
 "Title" = "Titel";
 "Description" = "Beskrivelse";
-"Separate tags with spaces" = "Swipe left to delete a tag.";
+"Separate tags with spaces" = "Swipe til venstre for at slette et tag.";
 "Private" = "Privat";
 "Copy URL" = "Kopier URL";
 "Copy Title" = "Kopier Title";
@@ -91,7 +91,7 @@
 "Copy to mine" = "Kopier til egne";
 "Send to Instapaper" = "Send til Instapaper";
 "Send to Readability" = "Send til Readability";
-"You can also toggle this by pinching in or out when viewing bookmarks." = "You can also toggle this by tapping the title bar or pinching in or out when viewing bookmarks.";
+"You can also toggle this by pinching in or out when viewing bookmarks." = "Du kan også skifte ved at trykke på titelbaren eller ved at zoome ind eller ud når du ser bogmærker.";
 
 "Edit Bookmark" = "Rediger bogmærke";
 "Delete Bookmark" = "Slet bogmærke";
