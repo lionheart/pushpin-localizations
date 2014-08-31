@@ -182,13 +182,13 @@
 "URL copied to clipboard." = "URL kopieret til udklipsholderen.";
 "Title copied to clipboard." = "Titel kopieret til udklipsholderen.";
 "Sent to Readability." = "Sendt til Readability.";
-"Link already sent to Readability." = "Link already sent to Readability.";
-"Almost ready to go, but not quite functional yet."= "Almost ready to go, but not quite functional yet.";
-"Are you sure you want to delete these bookmarks?" = "Are you sure you want to delete these bookmarks?";
-"Open Pushpin" = "Open Pushpin";
-"Error sending to Readability."= "Error sending to Readability.";
-"Sent to Pocket." = "Sent to Pocket.";
-"Tap an existing tag to remove it" = "Tap an existing tag to remove it";
+"Link already sent to Readability." = "Linket er allerede sendt til Readability.";
+"Almost ready to go, but not quite functional yet."= "Næsten klar, men ikke funktionel endnu.";
+"Are you sure you want to delete these bookmarks?" = "Er du sikker på du vil slette disse bogmærker?";
+"Open Pushpin" = "Åben Pushpin";
+"Error sending to Readability."= "Fejl ved afsendelse til Readability.";
+"Sent to Pocket." = "Sendt til Pocket.";
+"Tap an existing tag to remove it" = "Tryk på et eksisterende tag for at fjerne det";
 
 //Browsers
 
@@ -201,71 +201,71 @@
 
 // Feed List Page
 
-"Search" = "Search";
-"You can't browse popular feeds unless you have an active Internet connection." = "You can't browse popular feeds unless you have an active Internet connection.";
+"Search" = "Søg";
+"You can't browse popular feeds unless you have an active Internet connection." = "Du kan ikke gennemse i populære feeds medmindre du har en aktiv internetforbindelse.";
 
 
 // Search Page
 
-"Advanced Searching" = "Advanced Searching";
-"Search scope" = "Search scope";
-"Search Full-Text" = "Search Full-Text";
-"For archival accounts only." = "For archival accounts only.";
-"To enable Pinboard full-text search, please log out and then log back in." = "To enable Pinboard full-text search, please log out and then log back in.";
+"Advanced Searching" = "Avanceret søgning";
+"Search scope" = "Søgeområde";
+"Search Full-Text" = "Søg i fuld tekst";
+"For archival accounts only." = "For arkiv kontoer kun.";
+"To enable Pinboard full-text search, please log out and then log back in." = "For at aktivere Pinboard fuld tekst søgning. Log ud og log ind igen.";
 
 
 // Tag View Page
 
-"Suggest" = "Suggest";
-"Are you sure you want to delete this tag? There is no undo." = "Are you sure you want to delete this tag? There is no undo.";
+"Suggest" = "Anbefal";
+"Are you sure you want to delete this tag? There is no undo." = "Er du sikker på du vil slette dette tag? Der er ingen fortrydelse.";
 
 //
 // Updated Strings
 //
 
 // Tag Suggestions
-"Suggest" = "Suggest";
-"Hide" = "Hide";
+"Suggest" = "Anbefal";
+"Hide" = "Skjul";
 
 // Reader Settings
 "Font" = "Font";
 "Header Font" = "Header Font";
-"Font size" = "Font size";
+"Font size" = "Font størrelse";
 
-"Preview" = "Preview";
-"Minimize" = "Minimize";
+"Preview" = "Eksempel";
+"Minimize" = "Minimer";
 
-"Text Alignment" = "Text Alignment";
-"Justified" = "Justified";
-"Left" = "Left";
-"Right" = "Right";
-"Center" = "Center";
+"Text Alignment" = "Tekstjustering";
+"Justified" = "Juster tekst";
+"Left" = "Venstre";
+"Right" = "Højre";
+"Center" = "Centreret";
 
-"Line Spacing" = "Line Spacing";
-"Margins" = "Margins";
-"Display images?" = "Display images?";
+"Line Spacing" = "Linje afstand";
+"Margins" = "Margen";
+"Display images?" = "Vis billeder?";
 
 // Feed List
-"Browse" = "Browse";
+"Browse" = "Gennemse";
 "Wikipedia" = "Wikipedia";
-"Recent" = "Recent";
+"Recent" = "Tidligere";
 
 // Notifications
-"Bookmark marked as read." = "Bookmark marked as read.";
-"%lu bookmarks selected" = "%lu bookmarks selected";
+"Bookmark marked as read." = "Bogmærke markeret som læst.";
+"%lu bookmarks selected" = "%lu bogmærker markeret";
 "%lu snippets" = "%lu snippets";
-"1 bookmark selected" = "1 bookmark selected";
+"1 bookmark selected" = "1 bogmærket valgt";
 "1 snippet" = "1 snippet";
 
 // Misc
-"Add Feed" = "Add Feed";
-"Advanced Settings" = "Advanced Settings";
-"Changelog" = "Changelog";
-"Edit Tags" = "Edit Tags";
-"Enable TextExpander" = "Enable TextExpander";
-"Launch 1Password" = "Launch 1Password";
-"Resets the list of URLs that you've decided not to add from the clipboard." = "Resets the list of URLs that you've decided not to add from the clipboard.";
-"Update TextExpander Snippets" = "Update TextExpander Snippets";
+"Add Feed" = "Tilføj feed";
+"Advanced Settings" = "Avancerede instillinger";
+"Changelog" = "Ændringer";
+"Edit Tags" = "Rediger Tags";
+"Enable TextExpander" = "Aktiver TextExpander";
+"Launch 1Password" = "Åben 1Password";
+"Resets the list of URLs that you've decided not to add from the clipboard." = "Nulstiller listen over URLs du har valgt ikke at tilføje fra udklipsholderen.";
+"Update TextExpander Snippets" = "Opdater TextExpander Snippets";
 
 
 
