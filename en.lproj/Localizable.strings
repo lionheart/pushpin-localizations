@@ -118,13 +118,10 @@
 "Finalizing Metadata" = "Finalizing Metadata";
 
 
-
 // Settings Page
 "Private by default?" = "Default to private";
 "Read by default?" = "Default to read";
-
 "Open links with:" = "Open links with";
-
 "Install Chrome?" = "Install Chrome?";
 "In order to open links with Google Chrome, you first have to install it." = "In order to open links with Google Chrome, you first have to install it.";
 
@@ -171,6 +168,9 @@
 "Resetting Cache" = "Resetting Cache";
 "Your cache was cleared." = "Your cache was cleared.";
 
+"Turn it off!" = "Turn it off!";
+"The future is here. Be one with the extensions. Never see a bookmark prompt again. Ever." = "The future is here. Be one with the extensions. Never see a bookmark prompt again. Ever.";
+
 // About Page
 
 "About" = "About";
@@ -204,7 +204,6 @@
 "Search" = "Search";
 "You can't browse popular feeds unless you have an active Internet connection." = "You can't browse popular feeds unless you have an active Internet connection.";
 
-
 // Search Page
 
 "Advanced Searching" = "Advanced Searching";
@@ -212,7 +211,19 @@
 "Search Full-Text" = "Search Full-Text";
 "For archival accounts only." = "For archival accounts only.";
 "To enable Pinboard full-text search, please log out and then log back in." = "To enable Pinboard full-text search, please log out and then log back in.";
-
+"Save Search" = "Save Search";
+"Tap the info button to read about advanced searches." = "Tap the info button to read about advanced searches.";
+"Enter a name for this saved search." = "Enter a name for this saved search.";
+"Your saved search was added." = "Your saved search was added.";
+"Search in Results" = "Search in Results";
+"Search Tagged" = "Search Tagged";
+"Search Untagged" = "Search Untagged";
+"Search Starred" = "Search Starred";
+"Search Unstarred" = "Search Unstarred";
+"Search Private" = "Search Private";
+"Search Public" = "Search Public";
+"Search Unread" = "Search Unread";
+"Search Read" = "Search Read";
 
 // Tag View Page
 
@@ -257,6 +268,20 @@
 "1 bookmark selected" = "1 bookmark selected";
 "1 snippet" = "1 snippet";
 
+// Offline Mode
+"Offline Settings" = "Offline Settings";
+"Enable Offline Mode" = "Enable Offline Mode";
+"Download Full Webpage" = "Download Full Webpage";
+"Fetch Criteria" = "Fetch Criteria";
+"Current Usage" = "Current Usage";
+"Usage Limit" = "Usage Limit";
+"Clear Offline Cache" = "Clear Offline Cache";
+"Recent (last 30 days)" = "Recent (last 30 days)";
+"Unread and Recent" = "Unread and Recent";
+"Everything" = "Everything";
+"Are you sure you'd like to clear the cache? There is no undo." = "Are you sure you'd like to clear the cache? There is no undo.";
+"This will delete any stored articles on your device." = "This will delete any stored articles on your device.";
+
 // Misc
 "Add Feed" = "Add Feed";
 "Advanced Settings" = "Advanced Settings";
@@ -266,11 +291,11 @@
 "Launch 1Password" = "Launch 1Password";
 "Resets the list of URLs that you've decided not to add from the clipboard." = "Resets the list of URLs that you've decided not to add from the clipboard.";
 "Update TextExpander Snippets" = "Update TextExpander Snippets";
-
-
-
-/*
-// Untranslated Strings
+"An unknown error occured." = "An unknown error occured.";
+"Restore Purchases" = "Restore Purchases";
+"This client is not authorized to make in-app purchases." = "This client is not authorized to make in-app purchases.";
+"Mark All" = "Mark All";
+"Mark None" = "Mark None";
 
 "Acknowledgements" = "Acknowledgements";
 "Attributions" = "Attributions";
@@ -279,7 +304,6 @@
 "Click to edit description." = "Click to edit description.";
 "Clipboard url detection" = "Clipboard url detection";
 "Copy bookmarklet to clipboard" = "Copy bookmarklet to clipboard";
-"Dante and Isabelle" = "Dante and Isabelle";
 "Default Browser" = "Default Browser";
 "Default Feed" = "Default Feed";
 "Designed and developed by Lionheart Software." = "Designed and developed by Lionheart Software.";
@@ -325,4 +349,3 @@
 "You have no saved feeds." = "You have no saved feeds.";
 "\"Purge cache\" in settings if you'd like to add the URL on your clipboard." = "\"Purge cache\" in settings if you'd like to add the URL on your clipboard.";
 
-*/
