@@ -18,7 +18,7 @@ unique_strings () {
 
 unique_strings > all_strings
 
-for i in `ls *.lproj/Localizable.strings`; do
+for i in `ls *.lproj/Localizable.strings | grep -v en.lproj`; do
     unique_strings $i > current;
     UNTRANSLATED_STRINGS=`comm -23 all_strings current | grep -v "^$" | sed 's/\(.*\)$/\1 = \1;/g'`
     if [[ ! -z $UNTRANSLATED_STRINGS ]]; then
