@@ -301,3 +301,51 @@
 "\"Purge cache\" in settings if you'd like to add the URL on your clipboard." = "\"Purge cache\" in settings if you'd like to add the URL on your clipboard.";
 
 */
+
+
+/*
+// Untranslated Strings
+
+"Always show the add bookmark prompt, even for URLs that Pushpin has seen before."; = "Always show the add bookmark prompt, even for URLs that Pushpin has seen before.";;
+"An unknown error occured." = "An unknown error occured.";
+"Are you sure you'd like to clear the cache? There is no undo." = "Are you sure you'd like to clear the cache? There is no undo.";
+"Clear Offline Cache" = "Clear Offline Cache";
+"Clear"; = "Clear";;
+"Current Usage" = "Current Usage";
+"Cyberspace"; = "Cyberspace";;
+"Display a notification when the URL currently on the clipboard is one that you've previously decided not to add."; = "Display a notification when the URL currently on the clipboard is one that you've previously decided not to add.";;
+"Download Full Webpage" = "Download Full Webpage";
+"Enable Offline Mode" = "Enable Offline Mode";
+"Enter a name for this saved search." = "Enter a name for this saved search.";
+"Everything" = "Everything";
+"Fetch Criteria" = "Fetch Criteria";
+"Mark All" = "Mark All";
+"Mark None" = "Mark None";
+"Offline Settings" = "Offline Settings";
+"Recent (last 30 days)" = "Recent (last 30 days)";
+"Restore Purchases" = "Restore Purchases";
+"Retrieving popular tags" = "Retrieving popular tags";
+"Save Search" = "Save Search";
+"Search Private" = "Search Private";
+"Search Public" = "Search Public";
+"Search Read" = "Search Read";
+"Search Starred" = "Search Starred";
+"Search Tagged" = "Search Tagged";
+"Search Unread" = "Search Unread";
+"Search Unstarred" = "Search Unstarred";
+"Search Untagged" = "Search Untagged";
+"Search in Results" = "Search in Results";
+"Support Email Subject"; = "Support Email Subject";;
+"Swipe right to suggest popular tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period." = "Swipe right to suggest popular tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period.";
+"Tap the info button to read about advanced searches." = "Tap the info button to read about advanced searches.";
+"The future is here. Be one with the extensions. Never see a bookmark prompt again. Ever." = "The future is here. Be one with the extensions. Never see a bookmark prompt again. Ever.";
+"This client is not authorized to make in-app purchases." = "This client is not authorized to make in-app purchases.";
+"This will delete any stored articles on your device." = "This will delete any stored articles on your device.";
+"Turn it off!" = "Turn it off!";
+"Unread and Recent" = "Unread and Recent";
+"Usage Limit" = "Usage Limit";
+"You can also toggle this by pinching in or out when viewing bookmarks."; = "You can also toggle this by pinching in or out when viewing bookmarks.";;
+"You can't browse popular feeds unless you have an active Internet connection."; = "You can't browse popular feeds unless you have an active Internet connection.";;
+"Your saved search was added." = "Your saved search was added.";
+
+*/

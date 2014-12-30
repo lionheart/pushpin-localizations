@@ -296,6 +296,7 @@
 "This client is not authorized to make in-app purchases." = "This client is not authorized to make in-app purchases.";
 "Mark All" = "Mark All";
 "Mark None" = "Mark None";
+"Retrieving popular tags" = "Retrieving popular tags";
 
 "Acknowledgements" = "Acknowledgements";
 "Attributions" = "Attributions";
