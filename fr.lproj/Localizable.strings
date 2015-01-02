@@ -16,7 +16,7 @@
 "Uh oh." = "Hum hum...";
 "Nope" = "Pas vraiment, non!";
 "Sure" = "D’accord!";
-"Success" = "Ça marche";
+"Success" = "Succès";
 "Delete" = "Effacer";
 "Share" = "Partager";
 "No" = "Non";
@@ -38,7 +38,7 @@
 "Add Bookmark" = "Ajouter un signet";
 "Cancel" = "Annuler";
 "Add Bookmark?" = "Ajouter un signet ?";
-"We've detected a URL in your clipboard. Would you like to bookmark it?" = "Nous avons détecté un lien dans votre presse-papier. Voudriez-vous l’ajouter ?";
+"We've detected a URL in your clipboard. Would you like to bookmark it?" = "Nous avons détecté une URL dans votre presse-papier. Voudriez-vous l’ajouter ?";
 
 // Home Page
 
@@ -63,7 +63,7 @@
 "There was an error updating your bookmark." = "Erreur rencontrée durant la mise à jour de votre signet.";
 "Pinboard.in" = "Le bookmarking pour les introvertis";
 "pinboard .bookmarking" = "bookmarking antisocial";
-"You can't add a bookmark without a URL or title." = "Vous ne pouvez pas ajouter un signet dépourvu de lien ou de titre.";
+"You can't add a bookmark without a URL or title." = "Vous ne pouvez pas ajouter un signet dépourvu d'URL ou de titre.";
 
 "URL" = "Lien";
 "Title" = "Titre";
@@ -184,10 +184,6 @@
 "Update TextExpander Snippets" = "Mettre à jour les raccourcis TextExpander";
 
 
-
-/*
-// Untranslated Strings
-
 "%d bookmarks were added." = "%d signets ont été ajoutés.";
 "1 bookmark was added." = "1 signet a été ajouté.";
 "Acknowledgements" = "Remerciements";
@@ -281,7 +277,7 @@
 "Sent to Readability." = "Envoyé chezReadability.";
 "Starred" = "'Etoilé";
 "Support E-Mail Subject" = "Sujet du mail au support";
-"Tagged" = "Taggé";
+"Tagged" = "Avec tag";
 "Tags, separated by spaces" = "Tags, séparés par des espaces";
 "Tap an existing tag to remove it" = "Tapez un tag existant pour le supprimer";
 "Tap to add tags." = "Tapez pour ajouter des tags";
@@ -308,52 +304,43 @@
 "\"Purge cache\" in settings if you'd like to add the URL on your clipboard." = "\"Purger le cache\" dans les paramètres si vous souhaitez ajouter l'URL dans le presse-papier";
 "iCab Mobile" = "iCab Mobile";
 
-*/
 
 
-/*
-// Untranslated Strings
-
-"Always show the add bookmark prompt, even for URLs that Pushpin has seen before."; = "Always show the add bookmark prompt, even for URLs that Pushpin has seen before.";;
-"An unknown error occured." = "An unknown error occured.";
-"Are you sure you'd like to clear the cache? There is no undo." = "Are you sure you'd like to clear the cache? There is no undo.";
-"Clear Offline Cache" = "Clear Offline Cache";
-"Clear"; = "Clear";;
-"Current Usage" = "Current Usage";
-"Cyberspace"; = "Cyberspace";;
-"Display a notification when the URL currently on the clipboard is one that you've previously decided not to add."; = "Display a notification when the URL currently on the clipboard is one that you've previously decided not to add.";;
-"Download Full Webpage" = "Download Full Webpage";
-"Enable Offline Mode" = "Enable Offline Mode";
-"Enter a name for this saved search." = "Enter a name for this saved search.";
-"Everything" = "Everything";
-"Fetch Criteria" = "Fetch Criteria";
-"Mark All" = "Mark All";
-"Mark None" = "Mark None";
-"Offline Settings" = "Offline Settings";
-"Recent (last 30 days)" = "Recent (last 30 days)";
-"Restore Purchases" = "Restore Purchases";
-"Retrieving popular tags" = "Retrieving popular tags";
-"Save Search" = "Save Search";
-"Search Private" = "Search Private";
-"Search Public" = "Search Public";
-"Search Read" = "Search Read";
-"Search Starred" = "Search Starred";
-"Search Tagged" = "Search Tagged";
-"Search Unread" = "Search Unread";
-"Search Unstarred" = "Search Unstarred";
-"Search Untagged" = "Search Untagged";
-"Search in Results" = "Search in Results";
-"Support Email Subject"; = "Support Email Subject";;
-"Swipe right to suggest popular tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period." = "Swipe right to suggest popular tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period.";
-"Tap the info button to read about advanced searches." = "Tap the info button to read about advanced searches.";
-"The future is here. Be one with the extensions. Never see a bookmark prompt again. Ever." = "The future is here. Be one with the extensions. Never see a bookmark prompt again. Ever.";
-"This client is not authorized to make in-app purchases." = "This client is not authorized to make in-app purchases.";
-"This will delete any stored articles on your device." = "This will delete any stored articles on your device.";
-"Turn it off!" = "Turn it off!";
-"Unread and Recent" = "Unread and Recent";
-"Usage Limit" = "Usage Limit";
-"You can also toggle this by pinching in or out when viewing bookmarks."; = "You can also toggle this by pinching in or out when viewing bookmarks.";;
-"You can't browse popular feeds unless you have an active Internet connection."; = "You can't browse popular feeds unless you have an active Internet connection.";;
-"Your saved search was added." = "Your saved search was added.";
-
-*/
+"Always show the add bookmark prompt, even for URLs that Pushpin has seen before." = "Toujours proposer d'ajouter l'URL, y compris pour des URLs qui ont déjà été rencontrées par Pushpin";
+"An unknown error occured." = "Une erreur inconnue est survenue.";
+"Are you sure you'd like to clear the cache? There is no undo." = "Êtes-vous sûr de vouloir vider le cache? Cette action est irréversible.";
+"Clear Offline Cache" = "Vider le cache hors ligne.";
+"Clear" = "Vider";
+"Current Usage" = "Utilisation courante";
+"Cyberspace" = "Cyberspace";
+"Download Full Webpage" = "Télécharger les pages entières";
+"Enable Offline Mode" = "Activer le mode hors-ligne";
+"Enter a name for this saved search." = "Entrer un nom pour cette recherche sauvegardée";
+"Everything" = "Tout";
+"Fetch Criteria" = "Critère";
+"Mark All" = "Marquer tous";
+"Mark None" = "Marquer aucun";
+"Offline Settings" = "Réglages hors-ligne.";
+"Recent (last 30 days)" = "Récents (derniers 30 jours)";
+"Restore Purchases" = "Récupérer les achats";
+"Retrieving popular tags" = "Récupération des tags populaires";
+"Save Search" = "Sauver la recherche";
+"Search Private" = "Privés";
+"Search Public" = "Publics";
+"Search Read" = "Lus";
+"Search Starred" = "Étoilés";
+"Search Tagged" = "Avec tag";
+"Search Unread" = "Non-lus";
+"Search Unstarred" = "Sans étoiles";
+"Search Untagged" = "Sans tags";
+"Search in Results" = "Résultats";
+"Support Email Subject" = "Sujet de l'email";
+"Swipe right to suggest popular tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period." = "Glisser vers la droite pour suggérer des tags populaires. Glisser vers la gauche pour les supprimer. Séparez les tags avec des espaces. Ajouter un . devant un tag pour qu'il soit privé.";
+"Tap the info button to read about advanced searches." = "Tapez le bouton d'info pour voir la documentation sur les recherches avancées";
+"The future is here. Be one with the extensions. Never see a bookmark prompt again. Ever." = "Le futur est là. Soyez celui qui utilise les extensions. Ne voyez plus de fenêtre d'ajout de bookmark. Jamais.";
+"This client is not authorized to make in-app purchases." = "Ce client n'est pas autorisé à faire des achats in-app.";
+"This will delete any stored articles on your device." = "Ceci va effacer tous les articles stockés sur votre appareil.";
+"Turn it off!" = "Éteindre";
+"Unread and Recent" = "Non-lus et récents";
+"Usage Limit" = "Limite d'utilisation";
+"Your saved search was added." = "Votre recherche a été sauvegardée.";
