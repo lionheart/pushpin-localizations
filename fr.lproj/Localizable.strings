@@ -73,7 +73,7 @@
 "Copy URL" = "Copier le lien";
 "Copy Title" = "Copier le titre";
 "Other" = "Autre";
-"Set as private?" = "Mettre en privé ?";
+"Set as private?" = "Marquer comme privé ?";
 "Mark as read?" = "Marquer comme lu ?";
 "Copy to mine" = "Copier vers mon compte";
 "Send to Instapaper" = "Envoyer vers Instapaper";
@@ -93,7 +93,7 @@
 "We couldn't log you in. Please make sure you've provided valid credentials." = "Nous n’avons pas pu vous identifier. Assurez-vous que vos informations sont valides.";
 "You have successfully authenticated. Please wait while we download your bookmarks." = "Votre authentification s’est déroulée avec succès. Merci de patienter pendant le téléchargement de vos signets.";
 
-"Google Chrome failed to open" = "On dirait que Google Chrome ne peut pas ouvrir ce lien. Cliquez sur OK pour l’ouvrir avec Safari.";
+"Google Chrome failed to open" = "Google Chrome ne peut pas ouvrir ce lien. Cliquez sur OK pour l’ouvrir avec Safari.";
 
 "Mark as read" = "Marquer comme lu";
 "Open in Safari" = "Ouvrir dans Safari";
@@ -104,7 +104,7 @@
 
 "Open links with:" = "Ouvrir les liens avec";
 
-"Install Chrome?" = "Installez Chrome ?";
+"Install Chrome?" = "Installer Chrome ?";
 "In order to open links with Google Chrome, you first have to install it." = "Pour ouvrir des liens dans Google Chrome, vous devez d’abord l’installer.";
 
 "Are you sure?" = "Êtes-vous sûr ?";
@@ -134,10 +134,6 @@
 "Bookmarklet copied to clipboard." = "Bookmarklet copié dans le presse-papier.";
 "URL copied to clipboard." = "Lien copié dans le presse-papier.";
 "Title copied to clipboard." = "Titre copié dans le presse-papier.";
-
-//
-// Untranslated Strings
-//
 
 // Tag Suggestions
 "Suggest" = "Suggérer";
@@ -214,7 +210,7 @@
 "Display Settings" = "Paramètres d'affichage";
 "Display a notification when the URL currently on the clipboard is one that you've previously decided not to add." = "Afficher une notification quand l'URL dans le presse-papier a déjà été vue et n'a pas été ajoutée";
 "Dolphin" = "Dauphin";
-"Editing" = "'Editer";
+"Editing" = "Éditer";
 "Email Address" = "Adresse e-mail";
 "Error sending to Readability." = "Une erreur est survenue lors de l'envoi à Readability";
 "Feedback & Support" = "Feedback & Support";
@@ -272,10 +268,10 @@
 "Search Full-Text" = "Recherche full-text";
 "Search Tips" = "Astuces de recherche";
 "Search scope" = "Scope de la recherche";
-"Search" = "Chercer";
+"Search" = "Chercher";
 "Sent to Pocket." = "Envoyé chez Pocket.";
 "Sent to Readability." = "Envoyé chezReadability.";
-"Starred" = "'Etoilé";
+"Starred" = "Étoilé";
 "Support E-Mail Subject" = "Sujet du mail au support";
 "Tagged" = "Avec tag";
 "Tags, separated by spaces" = "Tags, séparés par des espaces";
@@ -292,7 +288,7 @@
 "Verifying credentials" = "Vérification des informations";
 "View changelog" = "Voir la liste des changements";
 "Visual design" = "Conception visuelle";
-"Watch a video" = "Regardez une vidé0";
+"Watch a video" = "Regarder une vidéo";
 "We couldn't log you into Instapaper with those credentials." = "Echec de l'identification auprès d'Instapaper avec ces informations";
 "We couldn't log you into Readability with those credentials." = "Echec de l'identification auprès de Readability avec ces informations";
 "When opening unread bookmarks." = "Lors de l'ouverture de signets non-lus";
