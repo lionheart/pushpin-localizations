@@ -303,7 +303,7 @@
 "Browser Integration" = "Browser Integration";
 "Browser Settings" = "Browser Settings";
 "Click to edit description." = "Click to edit description.";
-"Clipboard url detection" = "Clipboard url detection";
+"Clipboard URL detection" = "Clipboard URL detection";
 "Copy bookmarklet to clipboard" = "Copy bookmarklet to clipboard";
 "Default Browser" = "Default Browser";
 "Default Feed" = "Default Feed";
@@ -311,6 +311,7 @@
 "Dim read bookmarks" = "Dim read bookmarks";
 "Display Settings" = "Display Settings";
 "Editing" = "Editing";
+"Browsing" = "Browsing";
 "Feedback & Support" = "Feedback & Support";
 "Feedback Forum" = "Feedback Forum";
 "Follow @Pushpin_app on Twitter" = "Follow @Pushpin_app on Twitter";
@@ -350,3 +351,25 @@
 "You have no saved feeds." = "You have no saved feeds.";
 "\"Purge cache\" in settings if you'd like to add the URL on your clipboard." = "\"Purge cache\" in settings if you'd like to add the URL on your clipboard.";
 
+"Static Assets" = "Static Assets";
+"Download Complete" = "Download Complete";
+"Please open Pushpin to refresh your credentials." = "Please open Pushpin to refresh your credentials.";
+"Invalid Token" = "Invalid Token";
+"Smallest" = "Smallest";
+"Small" = "Small";
+"Medium" = "Medium";
+"Big" = "Big";
+"Biggest" = "Biggest";
+"Desc." = "Desc."; // Short for description.
+"Full Text" = "Full Text";
+"Reader Settings" = "Reader Settings";
+"Clear Cache" = "Clear Cache";
+"Reader View" = "Reader View";
+"Offline" = "Offline";
+"Advanced" = "Advanced";
+"Browser" = "Browser";
+"Mine" = "Mine";
+"Mine (Pinboard Syntax)" = "Mine (Pinboard Syntax)";
+"Open links in-app" = "Open links in-app";
+"Advanced Search" = "Advanced Search";
+"Unstarred" = "Unstarred";
