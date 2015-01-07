@@ -349,3 +349,34 @@
 "Your saved search was added." = "Your saved search was added.";
 
 */
+
+
+/*
+// Untranslated Strings
+
+"Advanced Search" = "Advanced Search";
+"Advanced" = "Advanced";
+"Big" = "Big";
+"Biggest" = "Biggest";
+"Browser" = "Browser";
+"Browsing" = "Browsing";
+"Clear Cache" = "Clear Cache";
+"Clipboard url detection" = "Clipboard url detection";
+"Desc." = "Desc.";
+"Download Complete" = "Download Complete";
+"Full Text" = "Full Text";
+"Invalid Token" = "Invalid Token";
+"Medium" = "Medium";
+"Mine (Pinboard Syntax)" = "Mine (Pinboard Syntax)";
+"Mine" = "Mine";
+"Offline" = "Offline";
+"Open links in-app" = "Open links in-app";
+"Please open Pushpin to refresh your credentials." = "Please open Pushpin to refresh your credentials.";
+"Reader Settings" = "Reader Settings";
+"Reader View" = "Reader View";
+"Small" = "Small";
+"Smallest" = "Smallest";
+"Static Assets" = "Static Assets";
+"Unstarred" = "Unstarred";
+
+*/
