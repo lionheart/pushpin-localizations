@@ -341,7 +341,6 @@
 /*
 // Untranslated Strings
 
-"Always show the add bookmark prompt, even for URLs that Pushpin has seen before."; = "Always show the add bookmark prompt, even for URLs that Pushpin has seen before.";;
 "An unknown error occured." = "An unknown error occured.";
 "Are you sure you'd like to clear the cache? There is no undo." = "Are you sure you'd like to clear the cache? There is no undo.";
 "Clear Offline Cache" = "Clear Offline Cache";
