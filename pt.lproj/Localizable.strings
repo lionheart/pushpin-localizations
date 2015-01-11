@@ -299,9 +299,7 @@
 "An unknown error occured." = "An unknown error occured.";
 "Are you sure you'd like to clear the cache? There is no undo." = "Are you sure you'd like to clear the cache? There is no undo.";
 "Clear Offline Cache" = "Clear Offline Cache";
-"Clear"; = "Clear";;
 "Current Usage" = "Current Usage";
-"Cyberspace"; = "Cyberspace";;
 "Display a notification when the URL currently on the clipboard is one that you've previously decided not to add."; = "Display a notification when the URL currently on the clipboard is one that you've previously decided not to add.";;
 "Download Full Webpage" = "Download Full Webpage";
 "Enable Offline Mode" = "Enable Offline Mode";

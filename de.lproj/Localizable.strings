@@ -257,13 +257,6 @@
 "Launch 1Password" = "Launch 1Password";
 "Resets the list of URLs that you've decided not to add from the clipboard." = "Resets the list of URLs that you've decided not to add from the clipboard.";
 "Update TextExpander Snippets" = "Update TextExpander Snippets";
-"Always show the add bookmark prompt, even for URLs that Pushpin has seen before.";
-"You can't browse popular feeds unless you have an active Internet connection.";
-"You can also toggle this by pinching in or out when viewing bookmarks.";
-"Display a notification when the URL currently on the clipboard is one that you've previously decided not to add.";
-"Clear";
-"Cyberspace";
-"Support Email Subject";
 
 
 /*
