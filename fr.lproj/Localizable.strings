@@ -272,7 +272,7 @@
 "Sent to Pocket." = "Envoyé chez Pocket.";
 "Sent to Readability." = "Envoyé chezReadability.";
 "Starred" = "Étoilé";
-"Support E-Mail Subject" = "Sujet du mail au support";
+"Support Email Subject" = "Sujet du mail au support";
 "Tagged" = "Avec tag";
 "Tags, separated by spaces" = "Tags, séparés par des espaces";
 "Tap an existing tag to remove it" = "Tapez un tag existant pour le supprimer";
@@ -366,3 +366,11 @@
 
 "Downloading" = "En cours de téléchargement";
 "Stop" = "Stop";
+
+
+/*
+// Untranslated Strings
+
+"Clipboard url detection" = "Clipboard url detection";
+
+*/
