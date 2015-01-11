@@ -330,7 +330,6 @@
 "Search Unstarred" = "Sans étoiles";
 "Search Untagged" = "Sans tags";
 "Search in Results" = "Résultats";
-"Support Email Subject" = "Sujet de l'email";
 "Swipe right to suggest popular tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period." = "Glisser vers la droite pour suggérer des tags populaires. Glisser vers la gauche pour les supprimer. Séparez les tags avec des espaces. Ajouter un . devant un tag pour qu'il soit privé.";
 "Tap the info button to read about advanced searches." = "Tapez le bouton d'info pour voir la documentation sur les recherches avancées";
 "The future is here. Be one with the extensions. Never see a bookmark prompt again. Ever." = "Le futur est là. Soyez celui qui utilise les extensions. Ne voyez plus de fenêtre d'ajout de bookmark. Jamais.";
@@ -341,48 +340,31 @@
 "Usage Limit" = "Limite d'utilisation";
 "Your saved search was added." = "Votre recherche a été sauvegardée.";
 
-
-/*
-// Untranslated Strings
-
-"Advanced Search" = "Advanced Search";
-"Advanced" = "Advanced";
+"Advanced Search" = "Recherche avancée";
+"Advanced" = "Avancée";
 "Always show the add bookmark prompt, even for URLs that Pushpin has seen before."; = "Always show the add bookmark prompt, even for URLs that Pushpin has seen before.";;
-"Big" = "Big";
-"Biggest" = "Biggest";
-"Browser" = "Browser";
-"Browsing" = "Browsing";
-"Clear Cache" = "Clear Cache";
-"Clear"; = "Clear";;
-"Clipboard url detection" = "Clipboard url detection";
-"Cyberspace"; = "Cyberspace";;
+"Big" = "Gros";
+"Biggest" = "Plus gros";
+"Browser" = "Navigateur";
+"Browsing" = "Naviguer";
+"Clear Cache" = "Vider le cache";
+"Clear"; = "Effacer";
 "Desc." = "Desc.";
-"Display a notification when the URL currently on the clipboard is one that you've previously decided not to add."; = "Display a notification when the URL currently on the clipboard is one that you've previously decided not to add.";;
-"Download Complete" = "Download Complete";
-"Full Text" = "Full Text";
-"Invalid Token" = "Invalid Token";
-"Medium" = "Medium";
-"Mine (Pinboard Syntax)" = "Mine (Pinboard Syntax)";
-"Mine" = "Mine";
-"Offline" = "Offline";
-"Open links in-app" = "Open links in-app";
-"Please open Pushpin to refresh your credentials." = "Please open Pushpin to refresh your credentials.";
-"Reader Settings" = "Reader Settings";
-"Reader View" = "Reader View";
-"Small" = "Small";
-"Smallest" = "Smallest";
+"Download Complete" = "Téléchargement terminé";
+"Full Text" = "Texte complet";
+"Invalid Token" = "Token invalide";
+"Medium" = "Moyen";
+"Mine (Pinboard Syntax)" = "Mes signets (syntaxe de Pinboard)";
+"Mine" = "Les miens";
+"Offline" = "Hors ligne";
+"Open links in-app" = "Ouvrir les liens dans l'app";
+"Please open Pushpin to refresh your credentials." = "Veuillez ouvrir Pushpin pour vous authentifier à nouveau";
+"Reader Settings" = "Réglages de la vue de lecture";
+"Reader View" = "Vue de lecture";
+"Small" = "Petit";
+"Smallest" = "Plus petit";
 "Static Assets" = "Static Assets";
-"Support Email Subject"; = "Support Email Subject";;
-"Unstarred" = "Unstarred";
-"You can also toggle this by pinching in or out when viewing bookmarks."; = "You can also toggle this by pinching in or out when viewing bookmarks.";;
-"You can't browse popular feeds unless you have an active Internet connection."; = "You can't browse popular feeds unless you have an active Internet connection.";;
+"Unstarred" = "Sans étoile";
 
-*/
-
-/*
-// Untranslated Strings
-
-"Downloading" = "Downloading";
+"Downloading" = "En cours de téléchargement";
 "Stop" = "Stop";
-
-*/
