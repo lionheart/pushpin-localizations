@@ -316,7 +316,7 @@
 "Search Tips" = "Search Tips";
 "Tags, separated by spaces" = "Tags, separated by spaces";
 "Tap to view license." = "Tap to view license.";
-"The selected default feed will be shown immediately after starting the app" = "The selected default feed will be shown immediately after starting the app";
+"The selected default feed will be shown immediately after starting the app." ="The selected default feed will be shown immediately after starting the app";
 "Translations" = "Translations";
 "URL Scheme" = "URL Scheme";
 "View changelog" = "View changelog";
@@ -373,7 +373,6 @@
 // Untranslated Strings
 
 "Advanced Search" = "Advanced Search";
-"Advanced" = "Advanced";
 "Big" = "Big";
 "Biggest" = "Biggest";
 "Browser" = "Browser";
@@ -406,3 +405,6 @@
 "Stop" = "Stop";
 
 */
+
+"Advanced Settings - Short" = "Advanced";
+"Offline Settings Section Footer" = "By default, Pushpin will download bookmarks matching your fetch criteria in the background. If you don't want to wait, the button above will start a sync manually";

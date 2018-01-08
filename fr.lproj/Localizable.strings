@@ -279,7 +279,7 @@
 "Tap to add tags." = "Tapez pour ajouter des tags";
 "Tap to view license." = "Tapez pour voir la licence.";
 "The URL list was cleared." = "La liste des URLs a été vidée";
-"The selected default feed will be shown immediately after starting the app" = "Le flux par défaut choisi sera affiché immédiatement après le redémarrage de l'app";
+"The selected default feed will be shown immediately after starting the app." ="Le flux par défaut choisi sera affiché immédiatement après le redémarrage de l'app";
 "There was an error adding your bookmark." = "Une erreur est survenue lors de l'ajout du signet.";
 "To enable Pinboard full-text search, please log out and then log back in." = "Pour activer la recherche full-text de Pinboard, merci de vous déconnecter et reconnecter.";
 "Translations" = "Traductions";
@@ -341,7 +341,6 @@
 "Your saved search was added." = "Votre recherche a été sauvegardée.";
 
 "Advanced Search" = "Recherche avancée";
-"Advanced" = "Avancé";
 "Big" = "Gros";
 "Biggest" = "Plus gros";
 "Browser" = "Navigateur";
@@ -367,3 +366,5 @@
 "Downloading" = "En cours de téléchargement";
 "Stop" = "Stop";
 
+"Advanced Settings - Short" = "Avancé";
+"Offline Settings Section Footer" = "By default, Pushpin will download bookmarks matching your fetch criteria in the background. If you don't want to wait, the button above will start a sync manually";

@@ -181,7 +181,6 @@
 "Remove" = "Entfernen";
 "Recent" = "Kürzlich";
 "Main Settings" = "Grundeinstellungen";
-"Advanced Settings" = "Erweiterte Einstellungen";
 "Browser Settings" = "Browser-Einstellungen";
 "Follow @Pushpin_app on Twitter" = "Folge @Pushpin_app auf Twitter";
 "Compress bookmark list" = "Kürze Lesezeichenliste";
@@ -196,7 +195,6 @@
 "For archival accounts only." = "Nur für Accounts mit Archiv.";
 "Default Browser" = "Standard-Browser";
 "Default Feed" = "Standard-Feed";
-"The selected default feed will be shown immediately after starting the app" = "Der ausgewählte Standard-Feed wird unmittelbar nach dem Start der App angezeigt";
 "We couldn't log you into Instapaper with those credentials." = "Wir konnten dich mit diesen Benutzerdaten nicht bei Instapaper anmelden.";
 "We couldn't log you into Readability with those credentials." = "Wir konnten dich mit diesen Benutzerdaten nicht bei Readability anmelden.";
 "Password may be blank." = "Passwort kann leer sein.";
@@ -219,11 +217,9 @@
 "Hide" = "Hide";
 
 // Reader Settings
-"Font" = "Font";
 "Header Font" = "Header Font";
 "Font size" = "Font size";
 
-"Preview" = "Preview";
 "Minimize" = "Minimize";
 
 "Text Alignment" = "Text Alignment";
@@ -250,7 +246,6 @@
 
 // Misc
 "Add Feed" = "Add Feed";
-"Advanced Settings" = "Advanced Settings";
 "Changelog" = "Changelog";
 "Edit Tags" = "Edit Tags";
 "Enable TextExpander" = "Enable TextExpander";
@@ -270,7 +265,7 @@
 "Copy bookmarklet to clipboard" = "Copy bookmarklet to clipboard";
 "Dante and Isabelle" = "Dante and Isabelle";
 "Designed and developed by Lionheart Software." = "Designed and developed by Lionheart Software.";
-"Dim read bookmarks" = "Dim read bookmarks";
+
 "Display Settings" = "Display Settings";
 "Feedback & Support" = "Feedback & Support";
 "Feedback Forum" = "Feedback Forum";
@@ -317,23 +312,16 @@
 "Always show the add bookmark prompt, even for URLs that Pushpin has seen before." = "Always show the add bookmark prompt, even for URLs that Pushpin has seen before.";
 "An unknown error occured." = "An unknown error occured.";
 "Are you sure you'd like to clear the cache? There is no undo." = "Are you sure you'd like to clear the cache? There is no undo.";
-"Clear Offline Cache" = "Clear Offline Cache";
 "Clear" = "Clear";
-"Current Usage" = "Current Usage";
 "Cyberspace" = "Cyberspace";
 "Display a notification when the URL currently on the clipboard is one that you've previously decided not to add." = "Display a notification when the URL currently on the clipboard is one that you've previously decided not to add.";
-"Download Full Webpage" = "Download Full Webpage";
-"Enable Offline Mode" = "Enable Offline Mode";
 "Enter a name for this saved search." = "Enter a name for this saved search.";
 "Everything" = "Everything";
-"Fetch Criteria" = "Fetch Criteria";
 "Mark All" = "Mark All";
 "Mark None" = "Mark None";
-"Offline Settings" = "Offline Settings";
 "Recent (last 30 days)" = "Recent (last 30 days)";
 "Restore Purchases" = "Restore Purchases";
 "Retrieving popular tags" = "Retrieving popular tags";
-"Save Search" = "Save Search";
 "Search Private" = "Search Private";
 "Search Public" = "Search Public";
 "Search Read" = "Search Read";
@@ -345,13 +333,11 @@
 "Search in Results" = "Search in Results";
 "Support Email Subject" = "Support Email Subject";
 "Swipe right to suggest popular tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period." = "Swipe right to suggest popular tags, swipe left to remove them. Separate tags with spaces and make a tag private by prepending it with a period.";
-"Tap the info button to read about advanced searches." = "Tap the info button to read about advanced searches.";
 "The future is here. Be one with the extensions. Never see a bookmark prompt again. Ever." = "The future is here. Be one with the extensions. Never see a bookmark prompt again. Ever.";
 "This client is not authorized to make in-app purchases." = "This client is not authorized to make in-app purchases.";
-"This will delete any stored articles on your device." = "This will delete any stored articles on your device.";
+"This will delete any stored articles on your device." = "Hiermit werden alle offline gespeicherten Artikel gelöscht.";
 "Turn it off!" = "Turn it off!";
 "Unread and Recent" = "Unread and Recent";
-"Usage Limit" = "Usage Limit";
 "You can also toggle this by pinching in or out when viewing bookmarks." = "You can also toggle this by pinching in or out when viewing bookmarks.";
 "You can't browse popular feeds unless you have an active Internet connection." = "You can't browse popular feeds unless you have an active Internet connection.";
 "Your saved search was added." = "Your saved search was added.";
@@ -362,13 +348,10 @@
 /*
 // Untranslated Strings
 
-"Advanced Search" = "Advanced Search";
-"Advanced" = "Advanced";
 "Big" = "Big";
 "Biggest" = "Biggest";
 "Browser" = "Browser";
 "Browsing" = "Browsing";
-"Clear Cache" = "Clear Cache";
 "Clipboard URL detection" = "Clipboard URL detection";
 "Desc." = "Desc.";
 "Download Complete" = "Download Complete";
@@ -378,14 +361,10 @@
 "Mine (Pinboard Syntax)" = "Mine (Pinboard Syntax)";
 "Mine" = "Mine";
 "Offline" = "Offline";
-"Open links in-app" = "Open links in-app";
 "Please open Pushpin to refresh your credentials." = "Please open Pushpin to refresh your credentials.";
-"Reader Settings" = "Reader Settings";
-"Reader View" = "Reader View";
 "Small" = "Small";
 "Smallest" = "Smallest";
 "Static Assets" = "Static Assets";
-"Unstarred" = "Unstarred";
 
 */
 
@@ -396,3 +375,61 @@
 "Stop" = "Stop";
 
 */
+
+// Reader Settings
+"Reader Settings" = "Reader Einstellungen";
+"Preview" = "Vorschau";
+"Font size" = "Schriftgröße";
+"Line Spacing" = "Linienabstand";
+"Margins" = "Rand";
+"Text Alignment" = "Textausrichtung";
+"Left" = "Links";
+"Right" = "Rechts";
+"Center" = "Mitte";
+"Display images?" = "Bilder anzeigen?";
+
+// Browser
+"Open links in-app" = "Links öffnen in-app";
+"Use Safari View Controller" = "Safari Reader aktivieren";
+
+// Advanced Search
+"Advanced Search" = "Erweiterte Suche";
+"Tap the info button to read about advanced searches." = "Klicke auf den Info Button, um mehr über die Erweiterte Sushe zu erfahren.";
+"Search query" = "Suchanfrage";
+"Search method" = "Suchmethode";
+"Filters" = "Filter";
+"Save Search" = "Suche speichern";
+"Unstarred" = "Nichtfavoriten";
+
+// Browse
+"Searches" = "Suchen";
+
+// Settings
+"Advanced Settings - Short" = "Erweiterte Einstellungen";
+"Reader View" = "Reader Ansicht";
+"No ratings for this version." = "Keine Ratings für diese Version.";
+"Clear Cache" = "Clear löschen";
+"Clearing your cache removes all stored cookies and session information from the in-app browser." = "Das Löschen des Caches entfernt alle gespeicherten Cookies und Sitzungsinformationen des In-App Browsers.";
+
+// Advanced Settings
+"Autocorrect text" = "Autokorrecktur Text";
+"Autocorrect tags" = "Autokorrektur Tags";
+"Autocapitalize text" = "Automatische Großschreibung";
+"Advanced Settings" = "Erweiterte Einstellungen";
+"Dim read bookmarks" = "Gelesene Lesezeichen dimmen";
+"Hide Private Lock" = "Privat Lock verstecken";
+"Font" = "Schriftart";
+"The selected default feed will be shown immediately after starting the app." = "Der ausgewählte Standard Feed wird unmittelbar nach Start der App angezeigt.";
+"Enable clipboard prompt" = "Clipboard Erkennung aktivieren";
+"Display a prompt when Pushpin detects a URL on the clipboard." = "Bei Erkennung einer URL in der Zwischenablage wird gefragt ob diese zu Pinboard hinzugefügt werden soll.";
+
+// Offline Settings
+"Offline Settings" = "Offline Einstellungen";
+"Enable Offline Mode" = "Offline Modus aktivieren";
+"Download Full Webpage" = "Download gesamte Webseite";
+"Current Usage" = "Aktueller Speichernutzung";
+"Usage Limit" = "Speichernutzung Limit";
+"Fetch Criteria" = "Download Kriterium";
+"Download Bookmarks" = "Download Lesezeichen";
+"Offline Settings Section Footer" = "Standardmäßig wird Pushpin Lesezeichen anhand der Download Kriterien im Hinterdgrund herunterladen. Wenn Sie nicht warten möchten, aktiviert der obere Button die unmittelbare Synchronisation.";
+"Clear Offline Cache" = "Offline Cache löschen";
